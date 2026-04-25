@@ -1,0 +1,109 @@
+{
+  "id": "mother_in_mannville_1&2_practice.json",
+  "name": "A Mother in Mannville Practice",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p1",
+      "type": "mcq",
+      "question": "What is the primary reason the narrator sought out the cabin in the Carolina mountains?",
+      "options": ["To volunteer at an orphanage", "To recover from malaria and write in isolation", "To learn how to chop wood", "To study the local maple trees"],
+      "answer": "To recover from malaria and write in isolation",
+      "explanation": "The narrator mentions wanting 'mountain air to blow out the malaria' and 'quiet, isolation, to do some troublesome writing.'"
+    },
+    {
+      "id": "p2",
+      "type": "gapfill",
+      "question": "The narrator was surprised that her ___ dog did not bark when the boy arrived.",
+      "wordBank": ["shepherd", "pointer", "terrier", "collie"],
+      "answer": "pointer",
+      "explanation": "The text identifies the companion as 'my pointer dog' and notes it had not barked to warn her of the boy's arrival."
+    },
+    {
+      "id": "p3",
+      "type": "mcq",
+      "question": "How did the boy react when the narrator first doubted his ability to chop wood due to his size?",
+      "options": [
+        "He became angry and left.",
+        "He asked for a smaller ax.",
+        "He stated that size doesn't matter for chopping wood.",
+        "He offered to bring a bigger boy."
+      ],
+      "answer": "He stated that size doesn't matter for chopping wood.",
+      "explanation": "Jerry confidently asserts, 'Size don't matter, chopping wood,' noting that even big boys sometimes don't do it well."
+    },
+    {
+      "id": "p4",
+      "type": "match",
+      "question": "Match the character trait or description to the correct person.",
+      "pairs": [
+        {"left": "Jerry", "right": "Integrity and courage"},
+        {"left": "The Narrator", "right": "Writer seeking isolation"},
+        {"left": "The Dog", "right": "Silent companion"}
+      ],
+      "explanation": "These matches reflect the core roles and traits established in the text."
+    },
+    {
+      "id": "p5",
+      "type": "mcq",
+      "question": "What word does the narrator decide best describes Jerry's character?",
+      "options": ["Independence", "Integrity", "Bravery", "Efficiency"],
+      "answer": "Integrity",
+      "explanation": "While she considers 'independence,' she settles on 'integrity,' describing it as something bedded on courage and more than just honesty."
+    },
+    {
+      "id": "p6",
+      "type": "gapfill",
+      "question": "Jerry had been living at the orphanage since he was ___ years old.",
+      "wordBank": ["four", "six", "eight", "ten"],
+      "answer": "four",
+      "explanation": "The story specifies that Jerry had been at the orphanage since the age of four."
+    },
+    {
+      "id": "p7",
+      "type": "mcq",
+      "question": "Why did Jerry refuse the money to fix the broken ax handle?",
+      "options": [
+        "He had plenty of money already.",
+        "He didn't think it could be fixed.",
+        "He felt the break was due to his own carelessness.",
+        "He wanted to buy a new ax instead."
+      ],
+      "answer": "He felt the break was due to his own carelessness.",
+      "explanation": "Jerry insisted on paying because he believed he 'brought the ax down careless,' showing his sense of responsibility."
+    },
+    {
+      "id": "p8",
+      "type": "gapfill",
+      "question": "The narrator compared Jerry's eyes to the mountain ___ when rain is pending.",
+      "wordBank": ["river", "sky", "stone", "mist"],
+      "answer": "sky",
+      "explanation": "The text describes his eyes as 'like the mountain sky when rain is pending—gray, with a shadowing of that miraculous blue.'"
+    },
+    {
+      "id": "p9",
+      "type": "match",
+      "question": "Match the action to its result in the story.",
+      "pairs": [
+        {"left": "Rhythmic chopping", "right": "An astonishing amount of wood"},
+        {"left": "Breaking the ax", "right": "Jerry's refusal of payment"},
+        {"left": "Morning work", "right": "A neat stack of kindling"}
+      ],
+      "explanation": "These pairings connect the boy's consistent work ethic and moral code to the outcomes described."
+    },
+    {
+      "id": "p10",
+      "type": "mcq",
+      "question": "What was the narrator's initial impression of the amount of wood Jerry chopped?",
+      "options": [
+        "She was disappointed by the small pile.",
+        "She thought it was an average amount for a boy.",
+        "She was astonished that he did as much as a man.",
+        "She thought he had worked too slowly."
+      ],
+      "answer": "She was astonished that he did as much as a man.",
+      "explanation": "After inspecting the pile, she tells him, 'But you've done as much as a man. This is a splendid pile.'"
+    }
+  ]
+}
+
