@@ -1,0 +1,143 @@
+{
+  "id": "mother_in_mannville_5",
+  "name": "The White Gloves and the Goodbye",
+  "type": "story",
+  "parts": [
+    {
+      "text": "\"Have you seen her, Jerry - lately?\" I asked. \"I see her every summer. She sends for me... She wanted to give me a puppy... She sent me that suit for Christmas. The Christmas before that she sent me a pair of skates.\"",
+      "questions": [
+        {
+          "id": "q31",
+          "type": "mcq",
+          "question": "What gifts did Jerry claim his mother sent him for Christmas?",
+          "options": [
+            "A puppy and a bike",
+            "A suit and a pair of skates",
+            "A dollar and some gloves",
+            "Books and candy"
+          ],
+          "answer": "A suit and a pair of skates",
+          "explanation": "Jerry mentions a suit he wore last Sunday and skates from the Christmas before."
+        },
+        {
+          "id": "q32",
+          "type": "fill",
+          "question": "Jerry said his mother wanted to give him a ___, but the orphanage wouldn't allow it.",
+          "answers": [
+            "puppy",
+            "dog",
+            "a puppy"
+          ],
+          "explanation": "Jerry claimed she wanted to give him a puppy, but boys weren't allowed to keep them."
+        }
+      ]
+    },
+    {
+      "text": "\"I'm going to take the dollar you gave me for taking care of Pat,\" he said, \"and buy her a pair of gloves.\" ... \"She likes white gloves,\" he said. \"Do you think I can get them for a dollar?\"",
+      "questions": [
+        {
+          "id": "q33",
+          "type": "fill",
+          "question": "What color gloves did Jerry want to buy for his mother?",
+          "answers": [
+            "white",
+            "White",
+            "white gloves"
+          ],
+          "explanation": "Jerry specifically asks if he can get 'white gloves' for a dollar."
+        },
+        {
+          "id": "q34",
+          "type": "gapfill",
+          "question": "Jerry's plan for the money he earned.",
+          "text": "Jerry decided to use the ___ he earned from watching Pat to buy ___ for his mother.",
+          "answers": ["dollar", "gloves"],
+          "wordBank": ["dollar", "gloves", "food", "skates", "quarter"],
+          "explanation": "He intends to spend his payment on a gift for his mother."
+        }
+      ]
+    },
+    {
+      "text": "I hated her. Poverty or not... the soul could starve as quickly as the body. He was taking his dollar to buy gloves for her big, stupid hands and she lived away from him... contented herself with sending him skates.",
+      "questions": [
+        {
+          "id": "q35",
+          "type": "mcq",
+          "question": "Why was the narrator angry at Jerry's mother?",
+          "options": [
+            "Because she was poor",
+            "Because she lived in Mannville",
+            "Because she left her son in an orphanage while she lived elsewhere",
+            "Because she didn't like the narrator"
+          ],
+          "answer": "Because she left her son in an orphanage while she lived elsewhere",
+          "explanation": "The narrator feels that even if she is poor, she is neglecting Jerry's emotional needs ('the soul could starve')."
+        }
+      ]
+    },
+    {
+      "text": "He came every day and cut my wood and did small helpful favors... he brought me back vermilion maple leaves, and chestnut boughs dripping with imperial yellow. I was ready to go. I said to him, \"You have been my friend, Jerry. I am leaving tomorrow.\"",
+      "questions": [
+        {
+          "id": "q36",
+          "type": "match",
+          "pairs": [
+            { "left": "Maple leaves", "right": "Vermilion" },
+            { "left": "Chestnut boughs", "right": "Imperial yellow" },
+            { "left": "Jerry", "right": "The narrator's friend" }
+          ],
+          "explanation": "Matches the colors and descriptions of the items Jerry brought from the woods."
+        },
+        {
+          "id": "q37",
+          "type": "fill",
+          "question": "When did the narrator tell Jerry they would be leaving?",
+          "answers": [
+            "tomorrow",
+            "Tomorrow",
+            "the next day"
+          ],
+          "explanation": "The narrator says, 'I am leaving tomorrow.'"
+        }
+      ]
+    },
+    {
+      "text": "He did not answer... and I watched him go in silence up the hill. I expected him the next day, but he did not come... I stopped by the orphanage and left the cabin key and money... with Miss Clark.",
+      "questions": [
+        {
+          "id": "q38",
+          "type": "mcq",
+          "question": "What was Jerry's reaction to the news of the narrator leaving?",
+          "options": [
+            "He cried loudly",
+            "He didn't answer and walked away in silence",
+            "He asked for more money",
+            "He promised to write letters"
+          ],
+          "answer": "He didn't answer and walked away in silence",
+          "explanation": "The text says 'He did not answer... I watched him go in silence up the hill.'"
+        },
+        {
+          "id": "q39",
+          "type": "gapfill",
+          "question": "The narrator's final actions at the orphanage.",
+          "text": "The narrator left the cabin ___ and some ___ with Miss Clark.",
+          "answers": ["key", "money"],
+          "wordBank": ["key", "money", "gloves", "dog", "letter"],
+          "explanation": "The narrator leaves the keys and money for Jerry's work with the official at the orphanage."
+        },
+        {
+          "id": "q40",
+          "type": "match",
+          "pairs": [
+            { "left": "Miss Clark", "right": "The orphanage official" },
+            { "left": "The Hill", "right": "Where Jerry walked in silence" },
+            { "left": "The Cabin", "right": "What the narrator closed up" }
+          ],
+          "explanation": "Matches the people and places involved in the final departure."
+        }
+      ]
+    }
+  ]
+}
+
