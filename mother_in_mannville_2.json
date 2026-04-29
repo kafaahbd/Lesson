@@ -1,118 +1,110 @@
 {
   "id": "mother_in_mannville_2",
-  "name": "A Mother in Mannville - Part 2",
+  "name": "Mother in Mannville 2 ",
   "type": "story",
   "parts": [
     {
-      "text": "I looked at him, actually, for the first time. His hair was the color of the corn shocks and his eyes, very direct, were like the mountain sky when rain is pending-gray, with a shadowing of that miraculous blue.",
+      "text": "I looked at him, actually, for the first time. His hair was the color of the corn shocks and his eyes, very direct, were like the mountain sky when rain is pending - gray, with a shadowing of that miraculous blue.... I gave him a quarter. 'You may come tomorrow afternoon,' I said, 'and thank you very much.' He looked at me, and at the coin, and seemed to want to speak, but could not, and turned away....",
       "questions": [
         {
-          "id": "q11",
+          "id": "q1",
           "type": "mcq",
-          "question": "What color were the boy's eyes?",
-          "options": ["Bright green", "Dark brown", "Gray with a shadowing of blue", "Deep black"],
-          "answer": "Gray with a shadowing of blue",
-          "explanation": "The text compares his eyes to a mountain sky before rain: gray with miraculous blue."
+          "question": "What color were the boy's eyes described as?",
+          "options": ["Green", "Gray-blue", "Brown", "Black"],
+          "answer": "Gray-blue",
+          "explanation": "The text describes them as 'gray, with a shadowing of that miraculous blue'."
+        },
+        {
+          "id": "q2",
+          "type": "fill",
+          "question": "The boy's hair was the color of ___ shocks.",
+          "answers": ["corn", "corn shocks", "the corn shocks"],
+          "explanation": "The text states his hair was 'the color of the corn shocks'."
         }
       ]
     },
     {
-      "text": "I gave him a quarter. 'You may come tomorrow afternoon,' I said, 'and thank you very much.' He looked at me, and at the coin, and seemed to want to speak, but could not, and turned away.",
+      "text": "At daylight I was half wakened by the sound of chopping. Again it was so even in texture that I went back to sleep. When I left my bed in the cool morning, the boy had come and gone, and a stack of kindling was neat against the cabin wall.",
       "questions": [
         {
-          "id": "q12",
+          "id": "q3",
+          "type": "fill",
+          "question": "What sound half wakened the narrator at daylight?",
+          "answers": ["chopping", "the sound of chopping", "wood chopping"],
+          "explanation": "The narrator mentions being wakened by the sound of chopping."
+        },
+        {
+          "id": "q4",
           "type": "gapfill",
-          "question": "The narrator paid the boy a ___ for his work.",
-          "wordBank": ["dollar", "dime", "quarter", "nickel"],
-          "answer": "quarter",
-          "explanation": "The text specifies that she gave him a quarter."
+          "question": "Complete the observation about the morning work.",
+          "text": "A stack of ___ was neat against the ___ wall.",
+          "answers": ["kindling", "cabin"],
+          "wordBank": ["kindling", "cabin", "wood", "stone", "house"],
+          "explanation": "The text says 'a stack of kindling was neat against the cabin wall.'"
         }
       ]
     },
     {
-      "text": "At daylight I was half wakened by the sound of chopping. Again it was so even in texture that I went back to sleep. When I left my bed, the boy had come and gone, and a stack of kindling was neat against the cabin wall.",
+      "text": "He came after school in the afternoon and worked until time to return to the orphanage. His name was Jerry.... he had been at the orphanage since he was four. I could picture him at four, with the same grave gray-blue eyes and the same - independence? No, the word that comes to me is 'integrity'.... It is bedded on courage, but it is more than brave. It is honest, but it is more than honesty.",
       "questions": [
         {
-          "id": "q13",
+          "id": "q5",
           "type": "mcq",
-          "question": "Why did the narrator go back to sleep?",
-          "options": [
-            "She was very tired",
-            "The chopping sound was even and steady",
-            "The boy told her to sleep",
-            "She didn't hear anything"
-          ],
-          "answer": "The chopping sound was even and steady",
-          "explanation": "The 'even texture' of the chopping sound was consistent enough that it didn't disturb her sleep."
-        }
-      ]
-    },
-    {
-      "text": "He came after school in the afternoon and worked until time to return to the orphanage. His name was Jerry.",
-      "questions": [
+          "question": "How long had Jerry been at the orphanage?",
+          "options": ["Since he was born", "Since he was four", "Since he was ten", "For two years"],
+          "answer": "Since he was four",
+          "explanation": "The text says 'he had been at the orphanage since he was four.'"
+        },
         {
-          "id": "q14",
-          "type": "gapfill",
-          "question": "The boy, whose name was ___, worked after school.",
-          "wordBank": ["Jerry", "John", "Jim", "Jack"],
-          "answer": "Jerry",
-          "explanation": "The narrator introduces the boy by name in this section."
-        }
-      ]
-    },
-    {
-      "text": "He had been at the orphanage since he was four. I could picture him at four, with the same grave gray-blue eyes and the same independence.",
-      "questions": [
-        {
-          "id": "q15",
-          "type": "mcq",
-          "question": "How old was Jerry when he first came to the orphanage?",
-          "options": ["Two", "Four", "Six", "Twelve"],
-          "answer": "Four",
-          "explanation": "The story mentions he had been there since he was four years old."
-        }
-      ]
-    },
-    {
-      "text": "No, the word that comes to me is 'integrity'. It is bedded on courage, but it is more than brave. It is honest, but it is more than honesty.",
-      "questions": [
-        {
-          "id": "q16",
+          "id": "q6",
           "type": "match",
           "pairs": [
+            { "left": "Jerry", "right": "The boy from the orphanage" },
             { "left": "Integrity", "right": "Bedded on courage" },
-            { "left": "Honesty", "right": "Part of his character" },
-            { "left": "Grave eyes", "right": "Gray-blue color" }
-          ]
+            { "left": "Eyes", "right": "Grave and gray-blue" }
+          ],
+          "explanation": "Matches the boy's name, his defining quality, and his physical description."
+        },
+        {
+          "id": "q7",
+          "type": "fill",
+          "question": "What specific word does the narrator use to describe the boy's character, which is 'bedded on courage'?",
+          "answers": ["integrity", "Integrity"],
+          "explanation": "The narrator identifies 'integrity' as the key word for Jerry's character."
         }
       ]
     },
     {
-      "text": "The ax handle broke one day. Jerry said the woodshop at the orphanage would repair it. I brought money to pay for the job and he refused it.",
+      "text": "The ax handle broke one day. Jerry said the woodshop at the orphanage would repair it. I brought money to pay for the job and he refused it. 'I'll pay for it,' he said. 'I broke it. I brought the ax down careless.' 'But no one hits accurately every time,' I told him. 'The fault was in the wood of the handle. I'll see the man from whom I bought it'",
       "questions": [
         {
-          "id": "q17",
+          "id": "q8",
           "type": "mcq",
-          "question": "What happened to the equipment Jerry was using?",
-          "options": ["He lost the ax", "The ax handle broke", "He sold the ax", "The blade got dull"],
-          "answer": "The ax handle broke",
-          "explanation": "The text states 'The ax handle broke one day.'"
-        }
-      ]
-    },
-    {
-      "text": "'I'll pay for it,' he said. 'I broke it. I brought the ax down careless.' 'But no one hits accurately every time,' I told him. 'The fault was in the wood of the handle. I'll see the man from whom I bought it'",
-      "questions": [
+          "question": "Why did Jerry refuse the money for the ax handle repair?",
+          "options": ["He didn't need it", "He blamed himself for being careless", "He was angry", "The repair was free"],
+          "answer": "He blamed himself for being careless",
+          "explanation": "He said, 'I'll pay for it... I broke it. I brought the ax down careless.'"
+        },
         {
-          "id": "q18",
+          "id": "q9",
           "type": "gapfill",
-          "question": "Jerry insisted on paying because he claimed he was ___.",
-          "wordBank": ["tired", "angry", "careless", "weak"],
-          "answer": "careless",
-          "explanation": "Jerry takes responsibility by saying, 'I brought the ax down careless.'"
+          "question": "Complete Jerry's explanation.",
+          "text": "I brought the ___ down ___.",
+          "answers": ["ax", "careless"],
+          "wordBank": ["ax", "careless", "hammer", "hard", "wrong"],
+          "explanation": "Jerry says 'I brought the ax down careless.'"
+        },
+        {
+          "id": "q10",
+          "type": "match",
+          "pairs": [
+            { "left": "Jerry", "right": "Blamed his own carelessness" },
+            { "left": "The Narrator", "right": "Blamed the wood of the handle" },
+            { "left": "The Woodshop", "right": "Place where repair would happen" }
+          ],
+          "explanation": "Summarizes the differing perspectives on the broken ax handle."
         }
       ]
     }
   ]
 }
-
