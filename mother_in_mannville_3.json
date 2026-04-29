@@ -1,0 +1,139 @@
+{
+  "id": "mother_in_mannville_3",
+  "name": "The Character of Jerry",
+  "type": "story",
+  "parts": [
+    {
+      "text": "It was only then that he would take the money. He was standing back of his own carelessness. He was a free-will agent and he chose to do careful work, and if he failed, he took the responsibility without subterfuge.",
+      "questions": [
+        {
+          "id": "q11",
+          "type": "mcq",
+          "question": "What does the narrator mean by saying Jerry was a 'free-will agent'?",
+          "options": [
+            "He worked for free",
+            "He chose to take responsibility for his actions",
+            "He was looking for a new job",
+            "He did not like following rules"
+          ],
+          "answer": "He chose to take responsibility for his actions",
+          "explanation": "The text explains that he chose to do careful work and accepted failure without excuses."
+        }
+      ]
+    },
+    {
+      "text": "He found a cubbyhole beside the fireplace that I had not noticed. There, of his own accord, he put kindling and 'medium' wood, so that I might always have dry fire material ready in case of sudden wet weather. A stone was loose in the rough walk to the cabin. He dug a deeper hole and steadied it.",
+      "questions": [
+        {
+          "id": "q12",
+          "type": "fill",
+          "question": "Where did Jerry put the kindling and medium wood?",
+          "answers": [
+            "a cubbyhole",
+            "the cubbyhole",
+            "beside the fireplace",
+            "a cubbyhole beside the fireplace"
+          ],
+          "explanation": "Jerry found a cubbyhole beside the fireplace to store dry wood."
+        },
+        {
+          "id": "q13",
+          "type": "gapfill",
+          "question": "Jerry performed acts of service without being asked.",
+          "text": "He fixed a ___ stone in the walk and stored ___ wood for wet weather.",
+          "answers": ["loose", "dry"],
+          "wordBank": ["loose", "dry", "heavy", "wet", "broken"],
+          "explanation": "He steadied a loose stone and ensured there was dry fire material available."
+        }
+      ]
+    },
+    {
+      "text": "I found that when I tried to return his thoughtfulness with such things as candy and apples, he was wordless. 'Thank you' was, perhaps, an expression for which he had had no use, for his courtesy was Instinctive.",
+      "questions": [
+        {
+          "id": "q14",
+          "type": "mcq",
+          "question": "How did Jerry react when given gifts like candy or apples?",
+          "options": [
+            "He said thank you loudly",
+            "He refused to take them",
+            "He was wordless",
+            "He asked for money instead"
+          ],
+          "answer": "He was wordless",
+          "explanation": "The text states he was 'wordless' because his courtesy was instinctive rather than learned through formal expressions."
+        },
+        {
+          "id": "q15",
+          "type": "fill",
+          "question": "The narrator describes Jerry's courtesy as ___.",
+          "answers": [
+            "Instinctive",
+            "instinctive"
+          ],
+          "explanation": "The narrator notes that 'Thank you' was an expression he didn't use because his politeness was natural to him."
+        }
+      ]
+    },
+    {
+      "text": "He became intimate, of course, with my pointer, Pat. There is a strange communion between a boy and a dog. When I went across the state for a weekend, I left the dog in Jerry's charge....",
+      "questions": [
+        {
+          "id": "q16",
+          "type": "match",
+          "pairs": [
+            { "left": "Pat", "right": "The pointer dog" },
+            { "left": "Jerry", "right": "The dog's caretaker" },
+            { "left": "The Narrator", "right": "Traveled across the state" }
+          ],
+          "explanation": "Matches the characters to their roles during the weekend trip."
+        },
+        {
+          "id": "q17",
+          "type": "mcq",
+          "question": "What kind of dog was Pat?",
+          "options": ["Retriever", "Pointer", "Hound", "Shepherd"],
+          "answer": "Pointer",
+          "explanation": "The text identifies Pat as 'my pointer'."
+        }
+      ]
+    },
+    {
+      "text": "The dog had been fed and cared for that morning. Jerry came early in the afternoon, anxious. 'I came.... last night and you hadn't come. So I brought Pat some of my breakfast this morning.'",
+      "questions": [
+        {
+          "id": "q18",
+          "type": "gapfill",
+          "question": "Jerry went above and beyond to care for the dog.",
+          "text": "Jerry was ___ when the narrator was late, so he shared his own ___ with the dog.",
+          "answers": ["anxious", "breakfast"],
+          "wordBank": ["anxious", "breakfast", "happy", "dinner", "tired"],
+          "explanation": "Jerry was worried about the narrator's absence and gave Pat part of his own meal."
+        },
+        {
+          "id": "q19",
+          "type": "fill",
+          "question": "Why was the narrator's return delayed until Monday noon?",
+          "answers": [
+            "fog",
+            "the fog",
+            "treacherous fog",
+            "fog in the mountain passes"
+          ],
+          "explanation": "The narrator mentions that fog filled the mountain passes treacherously."
+        },
+        {
+          "id": "q20",
+          "type": "match",
+          "pairs": [
+            { "left": "The Superintendent", "right": "Predicted no one would drive in fog" },
+            { "left": "Jerry", "right": "Brought his own breakfast for Pat" },
+            { "left": "Monday Noon", "right": "When the narrator finally arrived" }
+          ],
+          "explanation": "Matches the events and statements from the final scene of the text."
+        }
+      ]
+    }
+  ]
+}
+
