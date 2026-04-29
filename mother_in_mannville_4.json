@@ -1,0 +1,136 @@
+{
+  "id": "mother_in_mannville_4",
+  "name": "The Secret of Jerry's Mother",
+  "type": "story",
+  "parts": [
+    {
+      "text": "I gave him a dollar in payment, and he looked at it and went away. But that night he came in the darkness and knocked at the door. 'I told maybe a story' he said, 'I told them I thought you would want to see me.' 'That's true,' I assured him, and I saw his relief.",
+      "questions": [
+        {
+          "id": "q21",
+          "type": "mcq",
+          "question": "Why did Jerry visit the narrator late at night?",
+          "options": [
+            "He wanted more money",
+            "He was lonely and wanted to talk",
+            "He needed to return a book",
+            "He was sent by the superintendent"
+          ],
+          "answer": "He was lonely and wanted to talk",
+          "explanation": "Jerry made up an excuse ('told a story') to visit because he felt a connection and wanted to see the narrator."
+        },
+        {
+          "id": "q22",
+          "type": "fill",
+          "question": "What did Jerry say he told the people at the orphanage to explain his late visit?",
+          "answers": [
+            "a story",
+            "maybe a story",
+            "I told maybe a story"
+          ],
+          "explanation": "Jerry admits he 'told maybe a story' (a lie) to be allowed to visit."
+        }
+      ]
+    },
+    {
+      "text": "He sat by the fire with me... and told me of their two days together. The dog lay close to him and found a comfort there that I did not have for him.... 'He stayed right with me,' he told me, 'except when he ran in the laurel.... When he found me he acted crazy, and he ran around and around me, in circles.'",
+      "questions": [
+        {
+          "id": "q23",
+          "type": "gapfill",
+          "question": "Complete the description of Pat's reaction to finding Jerry.",
+          "text": "When the dog found Jerry in the high grass, he acted ___ and ran in ___.",
+          "answers": ["crazy", "circles"],
+          "wordBank": ["crazy", "circles", "angry", "squares", "tired"],
+          "explanation": "Jerry describes Pat's excitement as acting 'crazy' and running in 'circles'."
+        },
+        {
+          "id": "q24",
+          "type": "match",
+          "pairs": [
+            { "left": "The Laurel", "right": "Where the dog ran" },
+            { "left": "High Grass", "right": "Where Jerry hid" },
+            { "left": "Fireplace", "right": "Where they sat together" }
+          ],
+          "explanation": "Matches the locations mentioned in Jerry's story about his time with Pat."
+        }
+      ]
+    },
+    {
+      "text": "'That's an apple log,' he said. 'It burns the prettiest of any wood.' We were very close. He was suddenly impelled to speak. 'You look a little bit like my mother,' he said. 'Especially in the dark, by the fire'",
+      "questions": [
+        {
+          "id": "q25",
+          "type": "mcq",
+          "question": "What type of wood did Jerry say burns the prettiest?",
+          "options": ["Oak", "Pine", "Apple", "Maple"],
+          "answer": "Apple",
+          "explanation": "Jerry identifies the log as an 'apple log' and says it burns the prettiest."
+        },
+        {
+          "id": "q26",
+          "type": "fill",
+          "question": "Who does Jerry say the narrator looks like?",
+          "answers": [
+            "his mother",
+            "my mother",
+            "Jerry's mother"
+          ],
+          "explanation": "Jerry tells the narrator, 'You look a little bit like my mother.'"
+        }
+      ]
+    },
+    {
+      "text": "'But you were only four, Jerry, when you came here. You have remembered how she looked, all these years?' 'My mother lives in Mannville,' he said.",
+      "questions": [
+        {
+          "id": "q27",
+          "type": "fill",
+          "question": "In what town does Jerry claim his mother lives?",
+          "answers": [
+            "Mannville",
+            "mannville"
+          ],
+          "explanation": "Jerry explicitly states, 'My mother lives in Mannville.'"
+        },
+        {
+          "id": "q28",
+          "type": "gapfill",
+          "question": "The narrator was surprised because Jerry had been at the orphanage for a long time.",
+          "text": "Jerry came to the orphanage when he was ___ years old, yet he claims to have a ___.",
+          "answers": ["four", "mother"],
+          "wordBank": ["four", "mother", "ten", "sister", "six"],
+          "explanation": "The narrator notes he was only four when he arrived, making his claim about his mother shocking."
+        }
+      ]
+    },
+    {
+      "text": "For a moment, finding that he had a mother shocked me... I was filled with a passionate resentment that any woman should go away and leave her son. A son like this one. Granted, perhaps, that the boy felt no lack, what blood fed the bowels of a woman who did not yearn over this child?",
+      "questions": [
+        {
+          "id": "q29",
+          "type": "mcq",
+          "question": "What emotion does the narrator feel toward Jerry's mother?",
+          "options": [
+            "Sympathy",
+            "Resentment",
+            "Confusion",
+            "Joy"
+          ],
+          "answer": "Resentment",
+          "explanation": "The narrator feels 'passionate resentment' that a mother would leave a son like Jerry in an orphanage."
+        },
+        {
+          "id": "q30",
+          "type": "match",
+          "pairs": [
+            { "left": "The Orphanage", "right": "A wholesome place" },
+            { "left": "The Narrator", "right": "Shocked and resentful" },
+            { "left": "Jerry", "right": "Leaned against the fire" }
+          ],
+          "explanation": "Reflects the narrator's inner thoughts and descriptions at the end of the passage."
+        }
+      ]
+    }
+  ]
+}
