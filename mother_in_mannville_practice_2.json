@@ -1,0 +1,153 @@
+{
+  "id": "mother_in_mannville_practice_2.json",
+  "name": "Jerry's Character and Integrity",
+  "type": "practice",
+  "questions": [
+    {
+      "id": "p1",
+      "type": "mcq",
+      "question": "What is the narrator's primary reason for feeling resentment toward Jerry's mother?",
+      "options": [
+        "Because she was living in poverty",
+        "Because she sent him skates instead of gloves",
+        "Because she left a son of such high integrity in an orphanage",
+        "Because she did not have a job in Mannville"
+      ],
+      "answer": "Because she left a son of such high integrity in an orphanage",
+      "explanation": "The narrator finds it difficult to understand how a mother could stay away from a child like Jerry, regardless of her financial situation."
+    },
+    {
+      "id": "p2",
+      "type": "fill",
+      "question": "Jerry tells the narrator that he plans to buy his mother a pair of ___ with the dollar he earned.",
+      "answers": [
+        "gloves",
+        "white gloves",
+        "pair of gloves"
+      ],
+      "explanation": "Jerry specifically asks if a dollar is enough to buy white gloves, which he says his mother likes."
+    },
+    {
+      "id": "p3",
+      "type": "gapfill",
+      "question": "Complete the sentence regarding Jerry's work ethic.",
+      "text": "Jerry was a ___ agent who took ___ for his work without making excuses.",
+      "answers": [
+        "free-will",
+        "responsibility"
+      ],
+      "wordBank": [
+        "free-will",
+        "responsibility",
+        "careless",
+        "forced",
+        "credit"
+      ],
+      "explanation": "The text describes him as a 'free-will agent' who took responsibility even when things went wrong."
+    },
+    {
+      "id": "p4",
+      "type": "match",
+      "pairs": [
+        {
+          "left": "Apple Log",
+          "right": "Burns the prettiest"
+        },
+        {
+          "left": "Pat",
+          "right": "Found comfort with Jerry"
+        },
+        {
+          "left": "Miss Clark",
+          "right": "Received the cabin key"
+        }
+      ],
+      "explanation": "These pairings match the specific objects and characters to their descriptions in the final parts of the story."
+    },
+    {
+      "id": "p5",
+      "type": "mcq",
+      "question": "How did Jerry respond when the narrator announced they were leaving tomorrow?",
+      "options": [
+        "He asked for the narrator's address",
+        "He did not answer and walked away in silence",
+        "He cried and hugged the dog",
+        "He asked for one last payment"
+      ],
+      "answer": "He did not answer and walked away in silence",
+      "explanation": "The narrator observes that Jerry did not speak and simply watched him walk away up the hill."
+    },
+    {
+      "id": "p6",
+      "type": "fill",
+      "question": "According to Jerry, in what town does his mother currently live?",
+      "answers": [
+        "Mannville",
+        "mannville"
+      ],
+      "explanation": "Jerry mentions several times that his mother lives in Mannville."
+    },
+    {
+      "id": "p7",
+      "type": "gapfill",
+      "question": "Complete the description of the items Jerry brought to the narrator.",
+      "text": "Jerry brought back ___ maple leaves and ___ boughs.",
+      "answers": [
+        "vermilion",
+        "chestnut"
+      ],
+      "wordBank": [
+        "vermilion",
+        "chestnut",
+        "yellow",
+        "green",
+        "oak"
+      ],
+      "explanation": "The narrator describes the gifts from the woods as vermilion maple leaves and chestnut boughs."
+    },
+    {
+      "id": "p8",
+      "type": "mcq",
+      "question": "What does the narrator mean by saying Jerry's courtesy was 'Instinctive'?",
+      "options": [
+        "He was trained well by the orphanage",
+        "It was a natural part of his character that required no formal words",
+        "He only acted polite when he was being watched",
+        "He was trying to impress the narrator for gifts"
+      ],
+      "answer": "It was a natural part of his character that required no formal words",
+      "explanation": "The text notes that Jerry might not have even had use for the phrase 'thank you' because his kindness was so natural."
+    },
+    {
+      "id": "p9",
+      "type": "fill",
+      "question": "When the narrator was delayed by fog, Jerry gave Pat some of his own ___.",
+      "answers": [
+        "breakfast",
+        "food",
+        "meal"
+      ],
+      "explanation": "Jerry told the narrator that because no one could drive in the fog, he brought Pat his own breakfast."
+    },
+    {
+      "id": "p10",
+      "type": "match",
+      "pairs": [
+        {
+          "left": "Suit",
+          "right": "Worn last Sunday"
+        },
+        {
+          "left": "Skates",
+          "right": "Sent the Christmas before"
+        },
+        {
+          "left": "Dollar",
+          "right": "Payment for caring for the dog"
+        }
+      ],
+      "explanation": "These matches identify the specific items mentioned in Jerry's conversation about his mother's gifts."
+    }
+  ]
+}
+
