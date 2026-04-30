@@ -40,7 +40,7 @@
         {
           "id": "q4",
           "type": "gapfill",
-          "question": "A stack of ________ was neat against the cabin wall.",
+          "question": "A stack of ___ was neat against the cabin wall.",
           "wordBank": ["kindling", "cabin", "wood", "stone", "house"],
           "answer": "kindling",
           "explanation": "The text says 'a stack of kindling was neat against the cabin wall.'"
@@ -95,7 +95,7 @@
         {
           "id": "q9",
           "type": "gapfill",
-          "question": "I brought the ax down ________.",
+          "question": "I brought the ax down ___.",
           "wordBank": ["ax", "careless", "hammer", "hard", "wrong"],
           "answer": "careless",
           "explanation": "Jerry says 'I brought the ax down careless.'"
