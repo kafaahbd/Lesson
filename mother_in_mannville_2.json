@@ -20,7 +20,8 @@
           "id": "q2",
           "type": "fill",
           "question": "The boy's hair was the color of ________ shocks.",
-          "answers": ["corn", "corn shocks", "the corn shocks"]
+          "answers": ["corn", "corn shocks", "the corn shocks"],
+          "explanation": "The text states his hair was 'the color of the corn shocks'."
         }
       ]
     },
@@ -33,7 +34,8 @@
           "id": "q3",
           "type": "fill",
           "question": "What sound half wakened the narrator at daylight?",
-          "answers": ["chopping", "the sound of chopping", "wood chopping"]
+          "answers": ["chopping", "the sound of chopping", "wood chopping"],
+          "explanation": "The narrator mentions being wakened by the sound of chopping."
         },
         {
           "id": "q4",
@@ -72,7 +74,8 @@
           "id": "q7",
           "type": "fill",
           "question": "What specific word does the narrator use to describe the boy's character?",
-          "answers": ["integrity"]
+          "answers": ["integrity"],
+          "explanation": "The narrator identifies 'integrity' as the key word for Jerry's character."
         }
       ]
     },
