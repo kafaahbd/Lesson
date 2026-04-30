@@ -27,8 +27,7 @@
           "question": "Jerry said his mother wanted to give him a ________, but the orphanage wouldn't allow it.",
           "answers": [
             "puppy",
-            "dog",
-            "a puppy"
+            "dog"            
           ],
           "explanation": "Jerry claimed she wanted to give him a puppy, but boys weren't allowed to keep them."
         }
