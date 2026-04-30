@@ -53,7 +53,7 @@
         {
           "id": "q34",
           "type": "gapfill",
-          "question": "Jerry decided to use the ________ he earned from watching Pat to buy ________ for his mother.",
+          "question": "Jerry decided to use the ___ he earned from watching Pat to buy ___ for his mother.",
           "wordBank": ["dollar", "gloves", "food", "skates", "quarter"],
           "answers": ["dollar", "gloves"],
           "explanation": "He intends to spend his payment on a gift for his mother."
@@ -129,7 +129,7 @@
         {
           "id": "q39",
           "type": "gapfill",
-          "question": "The narrator left the cabin ________ and some ________ with Miss Clark.",
+          "question": "The narrator left the cabin ___ and some ___ with Miss Clark.",
           "wordBank": ["key", "money", "gloves", "dog", "letter"],
           "answers": ["key", "money"],
           "explanation": "The narrator leaves the keys and money for Jerry's work with the official at the orphanage."
