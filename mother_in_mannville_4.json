@@ -42,7 +42,7 @@
         {
           "id": "q23",
           "type": "gapfill",
-          "question": "When the dog found Jerry in the high grass, he acted ________ and ran in ________.",
+          "question": "When the dog found Jerry in the high grass, he acted ___ and ran in ___.",
           "wordBank": ["crazy", "circles", "angry", "squares", "tired"],
           "answers": ["crazy", "circles"],
           "explanation": "Jerry describes Pat's excitement as acting 'crazy' and running in 'circles'."
@@ -103,7 +103,7 @@
         {
           "id": "q28",
           "type": "gapfill",
-          "question": "Jerry came to the orphanage when he was ________ years old, yet he claims to have a ________.",
+          "question": "Jerry came to the orphanage when he was ___ years old, yet he claims to have a ___.",
           "wordBank": ["four", "mother", "ten", "sister", "six"],
           "answers": ["four", "mother"],
           "explanation": "The narrator notes he was only four when he arrived, making his claim about his mother shocking."
