@@ -26,7 +26,7 @@
         {
           "id": "q2",
           "type": "gapfill",
-          "question": "The narrator wanted the mountain air to blow out the ________.",
+          "question": "The narrator wanted the mountain air to blow out the _.",
           "wordBank": ["malaria", "cold", "smoke", "dust"],
           "answer": "malaria",
           "explanation": "She mentions wanting to clear out the malaria after spending too much time in the subtropics."
@@ -56,7 +56,7 @@
         {
           "id": "q4",
           "type": "gapfill",
-          "question": "The narrator needed someone to ________ wood.",
+          "question": "The narrator needed someone to _ wood.",
           "wordBank": ["stack", "chop", "burn", "sell"],
           "answer": "chop",
           "explanation": "She requested help specifically to chop wood for her fireplace."
@@ -103,7 +103,7 @@
         {
           "id": "q7",
           "type": "gapfill",
-          "question": "The boy argued that ________ does not matter when chopping wood.",
+          "question": "The boy argued that _ does not matter when chopping wood.",
           "wordBank": ["strength", "size", "age", "speed"],
           "answer": "size",
           "explanation": "The boy directly states, 'Size don't matter, chopping wood.'"
@@ -133,7 +133,7 @@
         {
           "id": "q9",
           "type": "gapfill",
-          "question": "The narrator described the sound of the chopping as ________ and steady.",
+          "question": "The narrator described the sound of the chopping as _ and steady.",
           "wordBank": ["loud", "fast", "rhythmic", "heavy"],
           "answer": "rhythmic",
           "explanation": "The text describes the blows as 'rhythmic and steady'."
