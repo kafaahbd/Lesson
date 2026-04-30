@@ -4,7 +4,9 @@
   "type": "story",
   "parts": [
     {
-      "text": "I gave him a dollar in payment, and he looked at it and went away. But that night he came in the darkness and knocked at the door. 'I told maybe a story' he said, 'I told them I thought you would want to see me.' 'That's true,' I assured him, and I saw his relief.",
+      "id": "part_16",
+      "content": "I gave him a dollar in payment, and he looked at it and went away. But that night he came in the darkness and knocked at the door. 'I told maybe a story' he said, 'I told them I thought you would want to see me.' 'That's true,' I assured him, and I saw his relief.",
+      "translation": "আমি তাকে পারিশ্রমিক হিসেবে এক ডলার দিলাম, সে সেটির দিকে তাকাল এবং চলে গেল। কিন্তু সেদিন রাতে সে অন্ধকারের মধ্যে এল এবং দরজায় কড়া নাড়ল। সে বলল, 'আমি হয়তো একটা গল্প (মিথ্যা) বলেছি, আমি তাদের বলেছি যে আপনি হয়তো আমার সাথে দেখা করতে চাইবেন।' আমি তাকে আশ্বস্ত করে বললাম, 'সেটি সত্য,' এবং আমি তার মুখে স্বস্তির ছাপ দেখতে পেলাম।",
       "questions": [
         {
           "id": "q21",
@@ -33,15 +35,16 @@
       ]
     },
     {
-      "text": "He sat by the fire with me... and told me of their two days together. The dog lay close to him and found a comfort there that I did not have for him.... 'He stayed right with me,' he told me, 'except when he ran in the laurel.... When he found me he acted crazy, and he ran around and around me, in circles.'",
+      "id": "part_17",
+      "content": "He sat by the fire with me... and told me of their two days together. The dog lay close to him and found a comfort there that I did not have for him.... 'He stayed right with me,' he told me, 'except when he ran in the laurel.... When he found me he acted crazy, and he ran around and around me, in circles.'",
+      "translation": "সে আমার সাথে আগুনের পাশে বসল... এবং তাদের একসাথে কাটানো দুটি দিনের কথা আমাকে বলল। কুকুরটি তার খুব কাছে শুয়ে ছিল এবং সেখানে এমন এক আরাম খুঁজে পেয়েছিল যা আমি তাকে দিতে পারিনি। সে আমাকে বলল, 'সে সারাক্ষণ আমার সাথেই ছিল, কেবল যখন সে লরেল ঝোপের মধ্যে দৌড়াত তখন ছাড়া। যখন সে আমাকে খুঁজে পেল, সে পাগলের মতো আচরণ করছিল এবং আমার চারপাশে বৃত্তাকারে ঘুরছিল।'",
       "questions": [
         {
           "id": "q23",
           "type": "gapfill",
-          "question": "Complete the description of Pat's reaction to finding Jerry.",
-          "text": "When the dog found Jerry in the high grass, he acted ___ and ran in ___.",
-          "answers": ["crazy", "circles"],
+          "question": "When the dog found Jerry in the high grass, he acted ________ and ran in ________.",
           "wordBank": ["crazy", "circles", "angry", "squares", "tired"],
+          "answers": ["crazy", "circles"],
           "explanation": "Jerry describes Pat's excitement as acting 'crazy' and running in 'circles'."
         },
         {
@@ -57,7 +60,9 @@
       ]
     },
     {
-      "text": "'That's an apple log,' he said. 'It burns the prettiest of any wood.' We were very close. He was suddenly impelled to speak. 'You look a little bit like my mother,' he said. 'Especially in the dark, by the fire'",
+      "id": "part_18",
+      "content": "'That's an apple log,' he said. 'It burns the prettiest of any wood.' We were very close. He was suddenly impelled to speak. 'You look a little bit like my mother,' he said. 'Especially in the dark, by the fire'",
+      "translation": "'ওটা একটা আপেল কাঠের গুঁড়ি,' সে বলল। 'অন্য যে কোনো কাঠের চেয়ে এটি সবচেয়ে সুন্দরভাবে জ্বলে।' আমরা খুব কাছাকাছি ছিলাম। সে হঠাৎ কিছু বলার জন্য তাড়না অনুভব করল। সে বলল, 'আপনাকে দেখতে কিছুটা আমার মায়ের মতো লাগে, বিশেষ করে অন্ধকারে আগুনের পাশে বসলে।'",
       "questions": [
         {
           "id": "q25",
@@ -81,7 +86,9 @@
       ]
     },
     {
-      "text": "'But you were only four, Jerry, when you came here. You have remembered how she looked, all these years?' 'My mother lives in Mannville,' he said.",
+      "id": "part_19",
+      "content": "'But you were only four, Jerry, when you came here. You have remembered how she looked, all these years?' 'My mother lives in Mannville,' he said.",
+      "translation": "'কিন্তু জেরি, যখন তুমি এখানে এসেছিলে তখন তোমার বয়স ছিল মাত্র চার বছর। এতগুলো বছর ধরে তুমি মনে রেখেছ সে দেখতে কেমন ছিল?' সে বলল, 'আমার মা ম্যানভিলে থাকেন।'",
       "questions": [
         {
           "id": "q27",
@@ -96,16 +103,17 @@
         {
           "id": "q28",
           "type": "gapfill",
-          "question": "The narrator was surprised because Jerry had been at the orphanage for a long time.",
-          "text": "Jerry came to the orphanage when he was ___ years old, yet he claims to have a ___.",
-          "answers": ["four", "mother"],
+          "question": "Jerry came to the orphanage when he was ________ years old, yet he claims to have a ________.",
           "wordBank": ["four", "mother", "ten", "sister", "six"],
+          "answers": ["four", "mother"],
           "explanation": "The narrator notes he was only four when he arrived, making his claim about his mother shocking."
         }
       ]
     },
     {
-      "text": "For a moment, finding that he had a mother shocked me... I was filled with a passionate resentment that any woman should go away and leave her son. A son like this one. Granted, perhaps, that the boy felt no lack, what blood fed the bowels of a woman who did not yearn over this child?",
+      "id": "part_20",
+      "content": "For a moment, finding that he had a mother shocked me... I was filled with a passionate resentment that any woman should go away and leave her son. A son like this one. Granted, perhaps, that the boy felt no lack, what blood fed the bowels of a woman who did not yearn over this child?",
+      "translation": "এক মুহূর্তের জন্য, তার মা আছে জেনে আমি স্তম্ভিত হয়ে গেলাম... আমার মনে এক তীব্র ক্ষোভ তৈরি হলো যে কীভাবে কোনো নারী তার সন্তানকে ছেড়ে দূরে চলে যেতে পারে। এমন একটি সন্তানকে! ধরে নিলাম হয়তো ছেলেটি কোনো অভাব বোধ করেনি, কিন্তু সেই নারীর ধমনীতে কী রক্ত বইছে যে এই সন্তানের জন্য তার মন একটুও কাঁদল না?",
       "questions": [
         {
           "id": "q29",
