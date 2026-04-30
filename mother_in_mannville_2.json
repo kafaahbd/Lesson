@@ -5,8 +5,8 @@
   "parts": [
     {
       "id": "part_1",
-      "content": "I looked at him, actually, for the first time. His hair was the color of the corn shocks and his eyes, very direct, were like the mountain sky when rain is pending - gray, with a shadowing of that miraculous blue.... I gave him a quarter. 'You may come tomorrow afternoon,' I said, 'and thank you very much.' He looked at me, and at the coin, and seemed to want to speak, but could not, and turned away....",
-      "translation": "আমি আসলে প্রথমবারের মতো তার দিকে তাকালাম। তার চুলের রঙ ছিল ভুট্টার গুচ্ছের মতো এবং তার চোখগুলো ছিল সরাসরি, অনেকটা বৃষ্টি আসার আগের পাহাড়ের আকাশের মতো - ধূসর, সাথে সেই অলৌকিক নীল আভা। আমি তাকে একটি কোয়ার্টার (মুদ্রা) দিলাম। আমি বললাম, 'তুমি আগামীকাল বিকেলে আসতে পারো, তোমাকে অনেক ধন্যবাদ।' সে আমার দিকে এবং মুদ্রার দিকে তাকাল, কিছু বলতে চাইল বলে মনে হলো, কিন্তু পারল না এবং মুখ ফিরিয়ে চলে গেল।",
+      "content": "I looked at him, actually, for the first time. His hair was the color of the corn shocks and his eyes, very direct, were like the mountain sky when rain is pending - gray, with a shadowing of that miraculous blue....",
+      "translation": "আমি আসলে প্রথমবারের মতো তার দিকে তাকালাম। তার চুলের রঙ ছিল ভুট্টার গুচ্ছের মতো এবং তার চোখগুলো ছিল সরাসরি, অনেকটা বৃষ্টি আসার আগের পাহাড়ের আকাশের মতো - ধূসর, সাথে সেই অলৌকিক নীল আভা।",
       "questions": [
         {
           "id": "q1",
@@ -15,7 +15,14 @@
           "options": ["Green", "Gray-blue", "Brown", "Black"],
           "answer": "Gray-blue",
           "explanation": "The text describes them as 'gray, with a shadowing of that miraculous blue'."
-        },
+        }
+      ]
+    },
+    {
+      "id": "part_2",
+      "content": "I gave him a quarter. 'You may come tomorrow afternoon,' I said, 'and thank you very much.' He looked at me, and at the coin, and seemed to want to speak, but could not, and turned away....",
+      "translation": "আমি তাকে একটি কোয়ার্টার (মুদ্রা) দিলাম। আমি বললাম, 'তুমি আগামীকাল বিকেলে আসতে পারো, তোমাকে অনেক ধন্যবাদ।' সে আমার দিকে এবং মুদ্রার দিকে তাকাল, কিছু বলতে চাইল বলে মনে হলো, কিন্তু পারল না এবং মুখ ফিরিয়ে চলে গেল।",
+      "questions": [
         {
           "id": "q2",
           "type": "fill",
@@ -26,9 +33,9 @@
       ]
     },
     {
-      "id": "part_2",
-      "content": "At daylight I was half wakened by the sound of chopping. Again it was so even in texture that I went back to sleep. When I left my bed in the cool morning, the boy had come and gone, and a stack of kindling was neat against the cabin wall.",
-      "translation": "ভোরবেলায় কাঠ কাটার শব্দে আমার ঘুম আধো আধো ভেঙে গেল। শব্দটা এতটাই সুষম ছিল যে আমি আবার ঘুমিয়ে পড়লাম। যখন আমি শীতল সকালে বিছানা ছাড়লাম, ছেলেটি ততক্ষণে এসে চলেও গিয়েছে, আর এক গাদা জ্বালানি কাঠ কেবিনের দেয়ালের সাথে পরিপাটি করে রাখা ছিল।",
+      "id": "part_3",
+      "content": "At daylight I was half wakened by the sound of chopping. Again it was so even in texture that I went back to sleep.",
+      "translation": "ভোরবেলায় কাঠ কাটার শব্দে আমার ঘুম আধো আধো ভেঙে গেল। শব্দটা এতটাই সুষম ছিল যে আমি আবার ঘুমিয়ে পড়লাম।",
       "questions": [
         {
           "id": "q3",
@@ -36,21 +43,28 @@
           "question": "What sound half wakened the narrator at daylight?",
           "answers": ["chopping", "the sound of chopping", "wood chopping"],
           "explanation": "The narrator mentions being wakened by the sound of chopping."
-        },
+        }
+      ]
+    },
+    {
+      "id": "part_4",
+      "content": "When I left my bed in the cool morning, the boy had come and gone, and a stack of kindling was neat against the cabin wall.",
+      "translation": "যখন আমি শীতল সকালে বিছানা ছাড়লাম, ছেলেটি ততক্ষণে এসে চলেও গিয়েছে, আর এক গাদা জ্বালানি কাঠ কেবিনের দেয়ালের সাথে পরিপাটি করে রাখা ছিল।",
+      "questions": [
         {
           "id": "q4",
           "type": "gapfill",
           "question": "A stack of ___ was neat against the cabin wall.",
           "wordBank": ["kindling", "cabin", "wood", "stone", "house"],
-          "answer": "kindling",
+          "answers": ["kindling"],
           "explanation": "The text says 'a stack of kindling was neat against the cabin wall.'"
         }
       ]
     },
     {
-      "id": "part_3",
-      "content": "He came after school in the afternoon and worked until time to return to the orphanage. His name was Jerry.... he had been at the orphanage since he was four. I could picture him at four, with the same grave gray-blue eyes and the same - independence? No, the word that comes to me is 'integrity'.... It is bedded on courage, but it is more than brave. It is honest, but it is more than honesty.",
-      "translation": "সে বিকেলে স্কুল শেষ করে আসত এবং অনাথ আশ্রমে ফেরার সময় না হওয়া পর্যন্ত কাজ করত। তার নাম ছিল জেরি। সে চার বছর বয়স থেকে অনাথ আশ্রমে ছিল। আমি তাকে চার বছর বয়সে কল্পনা করতে পারি, সেই একই গম্ভীর ধূসর-নীল চোখ আর সেই একই - স্বাধীনতা? না, আমার মনে যে শব্দটি আসে তা হলো 'চারিত্রিক দৃঢ়তা (integrity)'। এটি সাহসের ওপর ভিত্তি করে গড়ে ওঠে, কিন্তু এটি সাহসের চেয়েও বেশি কিছু। এটি সততা, কিন্তু এটি সাধারণ সততার চেয়েও মহৎ কিছু।",
+      "id": "part_5",
+      "content": "He came after school in the afternoon and worked until time to return to the orphanage. His name was Jerry.... he had been at the orphanage since he was four.",
+      "translation": "সে বিকেলে স্কুল শেষ করে আসত এবং অনাথ আশ্রমে ফেরার সময় না হওয়া পর্যন্ত কাজ করত। তার নাম ছিল জেরি। সে চার বছর বয়স থেকে অনাথ আশ্রমে ছিল।",
       "questions": [
         {
           "id": "q5",
@@ -59,7 +73,14 @@
           "options": ["Since he was born", "Since he was four", "Since he was ten", "For two years"],
           "answer": "Since he was four",
           "explanation": "The text says 'he had been at the orphanage since he was four.'"
-        },
+        }
+      ]
+    },
+    {
+      "id": "part_6",
+      "content": "I could picture him at four, with the same grave gray-blue eyes and the same - independence? No, the word that comes to me is 'integrity'....",
+      "translation": "আমি তাকে চার বছর বয়সে কল্পনা করতে পারি, সেই একই গম্ভীর ধূসর-নীল চোখ আর সেই একই - স্বাধীনতা? না, আমার মনে যে শব্দটি আসে তা হলো 'integrity' বা চারিত্রিক দৃঢ়তা।",
+      "questions": [
         {
           "id": "q6",
           "type": "match",
@@ -69,7 +90,14 @@
             { "left": "Eyes", "right": "Grave and gray-blue" }
           ],
           "explanation": "Matches the boy's name, his defining quality, and his physical description."
-        },
+        }
+      ]
+    },
+    {
+      "id": "part_7",
+      "content": "It is bedded on courage, but it is more than brave. It is honest, but it is more than honesty.",
+      "translation": "এটি সাহসের ওপর ভিত্তি করে গড়ে ওঠে, কিন্তু এটি সাহসের চেয়েও বেশি কিছু। এটি সততা, কিন্তু এটি সাধারণ সততার চেয়েও মহৎ কিছু।",
+      "questions": [
         {
           "id": "q7",
           "type": "fill",
@@ -80,9 +108,9 @@
       ]
     },
     {
-      "id": "part_4",
-      "content": "The ax handle broke one day. Jerry said the woodshop at the orphanage would repair it. I brought money to pay for the job and he refused it. 'I'll pay for it,' he said. 'I broke it. I brought the ax down careless.' 'But no one hits accurately every time,' I told him. 'The fault was in the wood of the handle. I'll see the man from whom I bought it'",
-      "translation": "একদিন কুঠারের হাতলটি ভেঙে গেল। জেরি বলল অনাথ আশ্রমের কাঠের দোকান এটি মেরামত করে দেবে। আমি মেরামতের খরচের জন্য টাকা নিয়ে এলাম কিন্তু সে তা নিতে অস্বীকার করল। 'আমি এটার দাম দেব,' সে বলল। 'আমি এটা ভেঙেছি। আমি অসাবধানতাবশত কুঠারটি চালিয়েছিলাম।' 'কিন্তু কেউ তো সবসময় নিখুঁতভাবে আঘাত করতে পারে না,' আমি তাকে বললাম। 'ত্রুটিটি ছিল হাতলের কাঠে। যে লোকটির কাছ থেকে আমি এটি কিনেছি আমি তার সাথে কথা বলব।'",
+      "id": "part_8",
+      "content": "The ax handle broke one day. Jerry said the woodshop at the orphanage would repair it. I brought money to pay for the job and he refused it.",
+      "translation": "একদিন কুঠারের হাতলটি ভেঙে গেল। জেরি বলল অনাথ আশ্রমের কাঠের দোকান এটি মেরামত করে দেবে। আমি মেরামতের খরচের জন্য টাকা নিয়ে এলাম কিন্তু সে তা নিতে অস্বীকার করল।",
       "questions": [
         {
           "id": "q8",
@@ -90,16 +118,30 @@
           "question": "Why did Jerry refuse the money for the ax handle repair?",
           "options": ["He didn't need it", "He blamed himself for being careless", "He was angry", "The repair was free"],
           "answer": "He blamed himself for being careless",
-          "explanation": "He said, 'I'll pay for it... I broke it. I brought the ax down careless.'"
-        },
+          "explanation": "He felt responsible for breaking it and wanted to pay for it himself."
+        }
+      ]
+    },
+    {
+      "id": "part_9",
+      "content": "'I'll pay for it,' he said. 'I broke it. I brought the ax down careless.'",
+      "translation": "'আমি এটার দাম দেব,' সে বলল। 'আমি এটা ভেঙেছি। আমি অসাবধানতাবশত কুঠারটি চালিয়েছিলাম।'",
+      "questions": [
         {
           "id": "q9",
           "type": "gapfill",
           "question": "I brought the ax down ___.",
           "wordBank": ["ax", "careless", "hammer", "hard", "wrong"],
-          "answer": "careless",
+          "answers": ["careless"],
           "explanation": "Jerry says 'I brought the ax down careless.'"
-        },
+        }
+      ]
+    },
+    {
+      "id": "part_10",
+      "content": "'But no one hits accurately every time,' I told him. 'The fault was in the wood of the handle. I'll see the man from whom I bought it'",
+      "translation": "'কিন্তু কেউ তো সবসময় নিখুঁতভাবে আঘাত করতে পারে না,' আমি তাকে বললাম। 'ত্রুটিটি ছিল হাতলের কাঠে। যে লোকটির কাছ থেকে আমি এটি কিনেছি আমি তার সাথে কথা বলব।'",
+      "questions": [
         {
           "id": "q10",
           "type": "match",
