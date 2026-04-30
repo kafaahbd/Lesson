@@ -1,10 +1,12 @@
 {
   "id": "mother_in_mannville_2",
-  "name": "Mother in Mannville 2 ",
   "type": "story",
+  "title": "A Mother in Mannville - Part 2",
   "parts": [
     {
-      "text": "I looked at him, actually, for the first time. His hair was the color of the corn shocks and his eyes, very direct, were like the mountain sky when rain is pending - gray, with a shadowing of that miraculous blue.... I gave him a quarter. 'You may come tomorrow afternoon,' I said, 'and thank you very much.' He looked at me, and at the coin, and seemed to want to speak, but could not, and turned away....",
+      "id": "part_1",
+      "content": "I looked at him, actually, for the first time. His hair was the color of the corn shocks and his eyes, very direct, were like the mountain sky when rain is pending - gray, with a shadowing of that miraculous blue.... I gave him a quarter. 'You may come tomorrow afternoon,' I said, 'and thank you very much.' He looked at me, and at the coin, and seemed to want to speak, but could not, and turned away....",
+      "translation": "আমি আসলে প্রথমবারের মতো তার দিকে তাকালাম। তার চুলের রঙ ছিল ভুট্টার গুচ্ছের মতো এবং তার চোখগুলো ছিল সরাসরি, অনেকটা বৃষ্টি আসার আগের পাহাড়ের আকাশের মতো - ধূসর, সাথে সেই অলৌকিক নীল আভা। আমি তাকে একটি কোয়ার্টার (মুদ্রা) দিলাম। আমি বললাম, 'তুমি আগামীকাল বিকেলে আসতে পারো, তোমাকে অনেক ধন্যবাদ।' সে আমার দিকে এবং মুদ্রার দিকে তাকাল, কিছু বলতে চাইল বলে মনে হলো, কিন্তু পারল না এবং মুখ ফিরিয়ে চলে গেল।",
       "questions": [
         {
           "id": "q1",
@@ -17,35 +19,36 @@
         {
           "id": "q2",
           "type": "fill",
-          "question": "The boy's hair was the color of ___ shocks.",
-          "answers": ["corn", "corn shocks", "the corn shocks"],
-          "explanation": "The text states his hair was 'the color of the corn shocks'."
+          "question": "The boy's hair was the color of ________ shocks.",
+          "answers": ["corn", "corn shocks", "the corn shocks"]
         }
       ]
     },
     {
-      "text": "At daylight I was half wakened by the sound of chopping. Again it was so even in texture that I went back to sleep. When I left my bed in the cool morning, the boy had come and gone, and a stack of kindling was neat against the cabin wall.",
+      "id": "part_2",
+      "content": "At daylight I was half wakened by the sound of chopping. Again it was so even in texture that I went back to sleep. When I left my bed in the cool morning, the boy had come and gone, and a stack of kindling was neat against the cabin wall.",
+      "translation": "ভোরবেলায় কাঠ কাটার শব্দে আমার ঘুম আধো আধো ভেঙে গেল। শব্দটা এতটাই সুষম ছিল যে আমি আবার ঘুমিয়ে পড়লাম। যখন আমি শীতল সকালে বিছানা ছাড়লাম, ছেলেটি ততক্ষণে এসে চলেও গিয়েছে, আর এক গাদা জ্বালানি কাঠ কেবিনের দেয়ালের সাথে পরিপাটি করে রাখা ছিল।",
       "questions": [
         {
           "id": "q3",
           "type": "fill",
           "question": "What sound half wakened the narrator at daylight?",
-          "answers": ["chopping", "the sound of chopping", "wood chopping"],
-          "explanation": "The narrator mentions being wakened by the sound of chopping."
+          "answers": ["chopping", "the sound of chopping", "wood chopping"]
         },
         {
           "id": "q4",
           "type": "gapfill",
           "question": "Complete the observation about the morning work.",
-          "text": "A stack of ___ was neat against the ___ wall.",
-          "answers": ["kindling", "cabin"],
           "wordBank": ["kindling", "cabin", "wood", "stone", "house"],
+          "answer": "kindling",
           "explanation": "The text says 'a stack of kindling was neat against the cabin wall.'"
         }
       ]
     },
     {
-      "text": "He came after school in the afternoon and worked until time to return to the orphanage. His name was Jerry.... he had been at the orphanage since he was four. I could picture him at four, with the same grave gray-blue eyes and the same - independence? No, the word that comes to me is 'integrity'.... It is bedded on courage, but it is more than brave. It is honest, but it is more than honesty.",
+      "id": "part_3",
+      "content": "He came after school in the afternoon and worked until time to return to the orphanage. His name was Jerry.... he had been at the orphanage since he was four. I could picture him at four, with the same grave gray-blue eyes and the same - independence? No, the word that comes to me is 'integrity'.... It is bedded on courage, but it is more than brave. It is honest, but it is more than honesty.",
+      "translation": "সে বিকেলে স্কুল শেষ করে আসত এবং অনাথ আশ্রমে ফেরার সময় না হওয়া পর্যন্ত কাজ করত। তার নাম ছিল জেরি। সে চার বছর বয়স থেকে অনাথ আশ্রমে ছিল। আমি তাকে চার বছর বয়সে কল্পনা করতে পারি, সেই একই গম্ভীর ধূসর-নীল চোখ আর সেই একই - স্বাধীনতা? না, আমার মনে যে শব্দটি আসে তা হলো 'চারিত্রিক দৃঢ়তা (integrity)'। এটি সাহসের ওপর ভিত্তি করে গড়ে ওঠে, কিন্তু এটি সাহসের চেয়েও বেশি কিছু। এটি সততা, কিন্তু এটি সাধারণ সততার চেয়েও মহৎ কিছু।",
       "questions": [
         {
           "id": "q5",
@@ -68,14 +71,15 @@
         {
           "id": "q7",
           "type": "fill",
-          "question": "What specific word does the narrator use to describe the boy's character, which is 'bedded on courage'?",
-          "answers": ["integrity", "Integrity"],
-          "explanation": "The narrator identifies 'integrity' as the key word for Jerry's character."
+          "question": "What specific word does the narrator use to describe the boy's character?",
+          "answers": ["integrity"]
         }
       ]
     },
     {
-      "text": "The ax handle broke one day. Jerry said the woodshop at the orphanage would repair it. I brought money to pay for the job and he refused it. 'I'll pay for it,' he said. 'I broke it. I brought the ax down careless.' 'But no one hits accurately every time,' I told him. 'The fault was in the wood of the handle. I'll see the man from whom I bought it'",
+      "id": "part_4",
+      "content": "The ax handle broke one day. Jerry said the woodshop at the orphanage would repair it. I brought money to pay for the job and he refused it. 'I'll pay for it,' he said. 'I broke it. I brought the ax down careless.' 'But no one hits accurately every time,' I told him. 'The fault was in the wood of the handle. I'll see the man from whom I bought it'",
+      "translation": "একদিন কুঠারের হাতলটি ভেঙে গেল। জেরি বলল অনাথ আশ্রমের কাঠের দোকান এটি মেরামত করে দেবে। আমি মেরামতের খরচের জন্য টাকা নিয়ে এলাম কিন্তু সে তা নিতে অস্বীকার করল। 'আমি এটার দাম দেব,' সে বলল। 'আমি এটা ভেঙেছি। আমি অসাবধানতাবশত কুঠারটি চালিয়েছিলাম।' 'কিন্তু কেউ তো সবসময় নিখুঁতভাবে আঘাত করতে পারে না,' আমি তাকে বললাম। 'ত্রুটিটি ছিল হাতলের কাঠে। যে লোকটির কাছ থেকে আমি এটি কিনেছি আমি তার সাথে কথা বলব।'",
       "questions": [
         {
           "id": "q8",
@@ -88,10 +92,9 @@
         {
           "id": "q9",
           "type": "gapfill",
-          "question": "Complete Jerry's explanation.",
-          "text": "I brought the ___ down ___.",
-          "answers": ["ax", "careless"],
+          "question": "I brought the ax down ________.",
           "wordBank": ["ax", "careless", "hammer", "hard", "wrong"],
+          "answer": "careless",
           "explanation": "Jerry says 'I brought the ax down careless.'"
         },
         {
