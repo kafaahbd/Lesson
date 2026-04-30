@@ -1,0 +1,94 @@
+{
+  "id": "mother_in_mannville_6",
+  "type": "story",
+  "title": "The Final Revelation",
+  "parts": [
+    {
+      "id": "part_36",
+      "content": "\"I don't know where he is,\" she said. \"I'm afraid he's not well. He didn't eat his dinner this noon. One of the other boys saw him going over the hill into the laurel... It's not like him\".",
+      "translation": "\"আমি জানি না সে কোথায়,\" তিনি বললেন। \"আমার ভয় হচ্ছে সে হয়তো অসুস্থ। সে আজ দুপুরে খাবার খায়নি। অন্য ছেলেদের একজন তাকে পাহাড়ের ওপর দিয়ে লরেল ঝোপের দিকে যেতে দেখেছে... এটা তার স্বভাববিরুদ্ধ।\"",
+      "questions": [
+        {
+          "id": "q41",
+          "type": "mcq",
+          "question": "Why was Miss Clark worried about Jerry?",
+          "options": [
+            "He was being rude",
+            "He didn't eat dinner and went to the hills",
+            "He broke another ax handle",
+            "He refused to work"
+          ],
+          "answer": "He didn't eat dinner and went to the hills",
+          "explanation": "Miss Clark notes that Jerry didn't eat and went into the laurel, which was unusual for him."
+        }
+      ]
+    },
+    {
+      "id": "part_37",
+      "content": "I was almost relieved... it would be easier not to say good-bye to him. I said, \"I wanted to talk with you about his mother - why he's here - but I'm in more of a hurry than I expected to be.\"",
+      "translation": "আমি প্রায় স্বস্তিই পেলাম... তাকে বিদায় না বলাটাই সহজ হবে। আমি বললাম, \"আমি আপনার সাথে তার মা সম্পর্কে কথা বলতে চেয়েছিলাম - কেন সে এখানে - কিন্তু আমি ধারণার চেয়েও বেশি তাড়াহুড়োর মধ্যে আছি।\"",
+      "questions": [
+        {
+          "id": "q42",
+          "type": "gapfill",
+          "question": "The narrator felt ___ because she was in a ___ to leave.",
+          "wordBank": ["relieved", "hurry", "sad", "meeting", "delay"],
+          "answers": ["relieved", "hurry"],
+          "explanation": "The narrator felt relieved that she didn't have to face Jerry, as she was in a rush."
+        }
+      ]
+    },
+    {
+      "id": "part_38",
+      "content": "\"But here's some money... to buy things for him at Christmas and on his birthday. It will be better than for me to try to send him things. I could so easily duplicate - skates, for instance.\"",
+      "translation": "\"তবে এই যে কিছু টাকা... বড়দিনে এবং তার জন্মদিনে তার জন্য জিনিস কেনার জন্য। আমার পক্ষ থেকে জিনিস পাঠানোর চেয়ে এটাই ভালো হবে। আমি খুব সহজেই একই জিনিস দুইবার পাঠিয়ে ফেলতে পারি - যেমন ধরুন, স্কেট জুতো।\"",
+      "questions": [
+        {
+          "id": "q43",
+          "type": "fill",
+          "question": "The narrator gave money to buy gifts for Christmas and Jerry's ________.",
+          "answers": ["birthday"],
+          "explanation": "The money was intended for both Christmas and his birthday gifts."
+        }
+      ]
+    },
+    {
+      "id": "part_39",
+      "content": "She blinked her honest spinster's eyes. \"There's not much use for skates here,\" she said. Her stupidity annoyed me. \"What I mean,\" I said, \"is that I don't want to duplicate the things his mother sends him.\"",
+      "translation": "তিনি তার সৎ অবিবাহিত চোখের পলক ফেললেন। \"এখানে স্কেট জুতোর খুব একটা ব্যবহার নেই,\" তিনি বললেন। তার মূর্খতা আমাকে বিরক্ত করল। \"আমি যা বোঝাতে চাচ্ছি,\" আমি বললাম, \"তা হলো তার মা তাকে যে জিনিসগুলো পাঠান আমি সেগুলোর পুনরাবৃত্তি করতে চাই না।\"",
+      "questions": [
+        {
+          "id": "q44",
+          "type": "match",
+          "pairs": [
+            { "left": "Miss Clark", "right": "Blinked her honest eyes" },
+            { "left": "The Narrator", "right": "Was annoyed by 'stupidity'" },
+            { "left": "Skates", "right": "Had no use at the orphanage" }
+          ],
+          "explanation": "Matches the reactions and observations from this interaction."
+        }
+      ]
+    },
+    {
+      "id": "part_40",
+      "content": "She stared at me. \"I don't understand,\" she said. \"He has no mother. He has no skates.\"",
+      "translation": "তিনি আমার দিকে একদৃষ্টিতে তাকিয়ে রইলেন। \"আমি বুঝতে পারছি না,\" তিনি বললেন। \"তার কোনো মা নেই। তার কোনো স্কেট জুতোও নেই।\"",
+      "questions": [
+        {
+          "id": "q45",
+          "type": "mcq",
+          "question": "What was the shocking truth revealed at the end?",
+          "options": [
+            "Jerry had moved to Mannville",
+            "Jerry's mother was coming to see him",
+            "Jerry had no mother and no skates",
+            "The orphanage was closing"
+          ],
+          "answer": "Jerry had no mother and no skates",
+          "explanation": "The story ends with the revelation that Jerry's stories about his mother were entirely fictional."
+        }
+      ]
+    }
+  ]
+}
+
