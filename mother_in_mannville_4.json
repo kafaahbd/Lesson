@@ -1,142 +1,158 @@
 {
   "id": "mother_in_mannville_4",
-  "name": "The Secret of Jerry's Mother",
   "type": "story",
+  "title": "Jerry's Secret and the Mother in Mannville",
   "parts": [
     {
       "id": "part_16",
-      "content": "I gave him a dollar in payment, and he looked at it and went away. But that night he came in the darkness and knocked at the door. 'I told maybe a story' he said, 'I told them I thought you would want to see me.' 'That's true,' I assured him, and I saw his relief.",
-      "translation": "আমি তাকে পারিশ্রমিক হিসেবে এক ডলার দিলাম, সে সেটির দিকে তাকাল এবং চলে গেল। কিন্তু সেদিন রাতে সে অন্ধকারের মধ্যে এল এবং দরজায় কড়া নাড়ল। সে বলল, 'আমি হয়তো একটা গল্প (মিথ্যা) বলেছি, আমি তাদের বলেছি যে আপনি হয়তো আমার সাথে দেখা করতে চাইবেন।' আমি তাকে আশ্বস্ত করে বললাম, 'সেটি সত্য,' এবং আমি তার মুখে স্বস্তির ছাপ দেখতে পেলাম।",
+      "content": "I gave him a dollar in payment, and he looked at it and went away. But that night he came in the darkness and knocked at the door.",
+      "translation": "আমি তাকে পারিশ্রমিক হিসেবে এক ডলার দিলাম, সে সেটির দিকে তাকাল এবং চলে গেল। কিন্তু সেই রাতে অন্ধকারের মধ্যে সে এল এবং দরজায় নক করল।",
       "questions": [
         {
           "id": "q21",
-          "type": "mcq",
-          "question": "Why did Jerry visit the narrator late at night?",
-          "options": [
-            "He wanted more money",
-            "He was lonely and wanted to talk",
-            "He needed to return a book",
-            "He was sent by the superintendent"
-          ],
-          "answer": "He was lonely and wanted to talk",
-          "explanation": "Jerry made up an excuse ('told a story') to visit because he felt a connection and wanted to see the narrator."
-        },
-        {
-          "id": "q22",
           "type": "fill",
-          "question": "What did Jerry say he told the people at the orphanage to explain his late visit?",
-          "answers": [
-            "a story",
-            "maybe a story",
-            "I told maybe a story"
-          ],
-          "explanation": "Jerry admits he 'told maybe a story' (a lie) to be allowed to visit."
+          "question": "The narrator gave Jerry a ___ in payment.",
+          "answers": ["dollar", "a dollar"],
+          "explanation": "The text states the payment was a dollar."
         }
       ]
     },
     {
       "id": "part_17",
-      "content": "He sat by the fire with me... and told me of their two days together. The dog lay close to him and found a comfort there that I did not have for him.... 'He stayed right with me,' he told me, 'except when he ran in the laurel.... When he found me he acted crazy, and he ran around and around me, in circles.'",
-      "translation": "সে আমার সাথে আগুনের পাশে বসল... এবং তাদের একসাথে কাটানো দুটি দিনের কথা আমাকে বলল। কুকুরটি তার খুব কাছে শুয়ে ছিল এবং সেখানে এমন এক আরাম খুঁজে পেয়েছিল যা আমি তাকে দিতে পারিনি। সে আমাকে বলল, 'সে সারাক্ষণ আমার সাথেই ছিল, কেবল যখন সে লরেল ঝোপের মধ্যে দৌড়াত তখন ছাড়া। যখন সে আমাকে খুঁজে পেল, সে পাগলের মতো আচরণ করছিল এবং আমার চারপাশে বৃত্তাকারে ঘুরছিল।'",
+      "content": "\"Come in, Jerry,\" I said, \"if you're allowed to be away this late.\" \"I told maybe a story\" he said, \"I told them I thought you would want to see me.\"",
+      "translation": "\"ভেতরে এসো জেরি,\" আমি বললাম, \"যদি এত রাত পর্যন্ত বাইরে থাকার অনুমতি তোমার থাকে।\" সে বলল, \"আমি হয়তো একটা গল্প (মিথ্যা) বলেছি, আমি তাদের বলেছি যে আমার মনে হয় আপনি আমার সাথে দেখা করতে চাইবেন।\"",
       "questions": [
         {
-          "id": "q23",
-          "type": "gapfill",
-          "question": "When the dog found Jerry in the high grass, he acted ___ and ran in ___.",
-          "wordBank": ["crazy", "circles", "angry", "squares", "tired"],
-          "answers": ["crazy", "circles"],
-          "explanation": "Jerry describes Pat's excitement as acting 'crazy' and running in 'circles'."
-        },
-        {
-          "id": "q24",
-          "type": "match",
-          "pairs": [
-            { "left": "The Laurel", "right": "Where the dog ran" },
-            { "left": "High Grass", "right": "Where Jerry hid" },
-            { "left": "Fireplace", "right": "Where they sat together" }
+          "id": "q22",
+          "type": "mcq",
+          "question": "What did Jerry mean by 'told maybe a story'?",
+          "options": [
+            "He read a book",
+            "He told a lie to come see the narrator",
+            "He wrote a poem",
+            "He told a folk tale"
           ],
-          "explanation": "Matches the locations mentioned in Jerry's story about his time with Pat."
+          "answer": "He told a lie to come see the narrator",
+          "explanation": "In this context, 'telling a story' implies making an excuse or a small lie to get permission."
         }
       ]
     },
     {
       "id": "part_18",
-      "content": "'That's an apple log,' he said. 'It burns the prettiest of any wood.' We were very close. He was suddenly impelled to speak. 'You look a little bit like my mother,' he said. 'Especially in the dark, by the fire'",
-      "translation": "'ওটা একটা আপেল কাঠের গুঁড়ি,' সে বলল। 'অন্য যে কোনো কাঠের চেয়ে এটি সবচেয়ে সুন্দরভাবে জ্বলে।' আমরা খুব কাছাকাছি ছিলাম। সে হঠাৎ কিছু বলার জন্য তাড়না অনুভব করল। সে বলল, 'আপনাকে দেখতে কিছুটা আমার মায়ের মতো লাগে, বিশেষ করে অন্ধকারে আগুনের পাশে বসলে।'",
+      "content": "\"That's true,\" I assured him, and I saw his relief. \"I want to hear about how you managed with the dog.\"",
+      "translation": "\"সেটা ঠিক,\" আমি তাকে আশ্বস্ত করলাম এবং আমি তার স্বস্তি দেখতে পেলাম। \"তুমি কুকুরটির সাথে কীভাবে সময় কাটিয়েছ তা আমি শুনতে চাই।\"",
       "questions": [
         {
-          "id": "q25",
-          "type": "mcq",
-          "question": "What type of wood did Jerry say burns the prettiest?",
-          "options": ["Oak", "Pine", "Apple", "Maple"],
-          "answer": "Apple",
-          "explanation": "Jerry identifies the log as an 'apple log' and says it burns the prettiest."
-        },
-        {
-          "id": "q26",
+          "id": "q23",
           "type": "fill",
-          "question": "Who does Jerry say the narrator looks like?",
-          "answers": [
-            "his mother",
-            "my mother",
-            "Jerry's mother"
-          ],
-          "explanation": "Jerry tells the narrator, 'You look a little bit like my mother.'"
+          "question": "The narrator wanted to hear how Jerry managed with the ___.",
+          "answers": ["dog", "Pat"],
+          "explanation": "The narrator specifically asked about his time with the dog."
         }
       ]
     },
     {
       "id": "part_19",
-      "content": "'But you were only four, Jerry, when you came here. You have remembered how she looked, all these years?' 'My mother lives in Mannville,' he said.",
-      "translation": "'কিন্তু জেরি, যখন তুমি এখানে এসেছিলে তখন তোমার বয়স ছিল মাত্র চার বছর। এতগুলো বছর ধরে তুমি মনে রেখেছ সে দেখতে কেমন ছিল?' সে বলল, 'আমার মা ম্যানভিলে থাকেন।'",
+      "content": "He sat by the fire with me.... and told me of their two days together. The dog lay close to him and found a comfort there that I did not have for him....",
+      "translation": "সে আমার সাথে আগুনের পাশে বসল... এবং তাদের একসাথে কাটানো দুই দিনের কথা আমাকে বলল। কুকুরটি তার গা ঘেঁষে শুয়ে ছিল এবং সেখানে এমন এক আরাম খুঁজে পাচ্ছিল যা আমি তাকে দিতে পারিনি...",
       "questions": [
         {
-          "id": "q27",
-          "type": "fill",
-          "question": "In what town does Jerry claim his mother lives?",
-          "answers": [
-            "Mannville",
-            "mannville"
-          ],
-          "explanation": "Jerry explicitly states, 'My mother lives in Mannville.'"
-        },
-        {
-          "id": "q28",
-          "type": "gapfill",
-          "question": "Jerry came to the orphanage when he was ___ years old, yet he claims to have a ___.",
-          "wordBank": ["four", "mother", "ten", "sister", "six"],
-          "answers": ["four", "mother"],
-          "explanation": "The narrator notes he was only four when he arrived, making his claim about his mother shocking."
+          "id": "q24",
+          "type": "mcq",
+          "question": "Where did Jerry sit with the narrator?",
+          "options": ["On the porch", "By the fire", "In the kitchen", "Under a tree"],
+          "answer": "By the fire",
+          "explanation": "The text mentions he sat by the fire with the narrator."
         }
       ]
     },
     {
       "id": "part_20",
-      "content": "For a moment, finding that he had a mother shocked me... I was filled with a passionate resentment that any woman should go away and leave her son. A son like this one. Granted, perhaps, that the boy felt no lack, what blood fed the bowels of a woman who did not yearn over this child?",
-      "translation": "এক মুহূর্তের জন্য, তার মা আছে জেনে আমি স্তম্ভিত হয়ে গেলাম... আমার মনে এক তীব্র ক্ষোভ তৈরি হলো যে কীভাবে কোনো নারী তার সন্তানকে ছেড়ে দূরে চলে যেতে পারে। এমন একটি সন্তানকে! ধরে নিলাম হয়তো ছেলেটি কোনো অভাব বোধ করেনি, কিন্তু সেই নারীর ধমনীতে কী রক্ত বইছে যে এই সন্তানের জন্য তার মন একটুও কাঁদল না?",
+      "content": "\"He stayed right with me,\" he told me, \"except when he ran in the laurel.... There was a place where the grass was high and I lay down in it and hid.\"",
+      "translation": "\"সে ঠিক আমার সাথেই ছিল,\" সে আমাকে বলল, \"শুধু যখন সে লরেল ঝোপের মধ্যে দৌড়াচ্ছিল তখন ছাড়া... সেখানে একটি জায়গা ছিল যেখানে ঘাসগুলো খুব লম্বা ছিল এবং আমি সেখানে শুয়ে লুকিয়ে ছিলাম।\"",
+      "questions": [
+        {
+          "id": "q25",
+          "type": "fill",
+          "question": "Jerry hid in the high ___.",
+          "answers": ["grass"],
+          "explanation": "Jerry describes hiding in the tall grass during their play."
+        }
+      ]
+    },
+    {
+      "id": "part_21",
+      "content": "I could hear Pat hunting for me.... When he found me he acted crazy, and he ran around and around me, in circles.\"",
+      "translation": "আমি শুনতে পাচ্ছিলাম প্যাট আমাকে খুঁজছে... যখন সে আমাকে খুঁজে পেল, সে পাগলের মতো আচরণ করছিল, এবং সে আমার চারপাশে বৃত্তাকারে বারবার দৌড়াচ্ছিল।\"",
+      "questions": [
+        {
+          "id": "q26",
+          "type": "gapfill",
+          "question": "Pat ___ for Jerry and ran in ___ when he found him.",
+          "wordBank": ["hunted", "circles", "barking", "straight", "slept"],
+          "answers": ["hunted", "circles"],
+          "explanation": "Pat was looking for Jerry and ran in circles out of excitement upon finding him."
+        }
+      ]
+    },
+    {
+      "id": "part_22",
+      "content": "We watched the flames. \"That's an apple log,\" he said. \"It burns the prettiest of any wood.\" We were very close.",
+      "translation": "আমরা আগুনের শিখা দেখছিলাম। \"ওটা আপেল গাছের কাঠ,\" সে বলল। \"এটি অন্য যে কোনো কাঠের চেয়ে বেশি সুন্দরভাবে জ্বলে।\" আমরা খুব কাছাকাছি ছিলাম।",
+      "questions": [
+        {
+          "id": "q27",
+          "type": "mcq",
+          "question": "What kind of wood did Jerry say burns the prettiest?",
+          "options": ["Oak", "Pine", "Apple", "Maple"],
+          "answer": "Apple",
+          "explanation": "Jerry points out that the apple log burns the prettiest."
+        }
+      ]
+    },
+    {
+      "id": "part_23",
+      "content": "He was suddenly impelled to speak. \"You look a little bit like my mother,\" he said. \"Especially in the dark, by the fire.\"",
+      "translation": "সে হঠাৎ কিছু বলতে উদ্বুদ্ধ হলো। \"আপনাকে কিছুটা আমার মায়ের মতো দেখতে,\" সে বলল। \"বিশেষ করে অন্ধকারে, আগুনের পাশে।\"",
+      "questions": [
+        {
+          "id": "q28",
+          "type": "fill",
+          "question": "Jerry thought the narrator looked like his ___.",
+          "answers": ["mother"],
+          "explanation": "Jerry makes a personal comparison between the narrator and his mother."
+        }
+      ]
+    },
+    {
+      "id": "part_24",
+      "content": "\"But you were only four, Jerry, when you came here. You have remembered how she looked, all these years?\" \"My mother lives in Mannville,\" he said.",
+      "translation": "\"কিন্তু জেরি, যখন তুমি এখানে এসেছিলে তখন তোমার বয়স ছিল মাত্র চার বছর। তুমি কি এতদিন ধরে মনে রেখেছ সে দেখতে কেমন ছিল?\" \"আমার মা ম্যানভিলে থাকেন,\" সে বলল।",
       "questions": [
         {
           "id": "q29",
           "type": "mcq",
-          "question": "What emotion does the narrator feel toward Jerry's mother?",
-          "options": [
-            "Sympathy",
-            "Resentment",
-            "Confusion",
-            "Joy"
-          ],
-          "answer": "Resentment",
-          "explanation": "The narrator feels 'passionate resentment' that a mother would leave a son like Jerry in an orphanage."
-        },
+          "question": "Where does Jerry say his mother lives?",
+          "options": ["In the orphanage", "In Mannville", "In the city", "At the farm"],
+          "answer": "In Mannville",
+          "explanation": "Jerry claims his mother is living in a place called Mannville."
+        }
+      ]
+    },
+    {
+      "id": "part_25",
+      "content": "For a moment, finding that he had a mother shocked me... I was filled with a passionate resentment that any woman should go away and leave her son.",
+      "translation": "এক মুহূর্তের জন্য, তার মা আছে জেনে আমি স্তম্ভিত হয়ে গেলাম... আমার মনে এক তীব্র ক্ষোভ তৈরি হলো যে কোনো নারী কীভাবে চলে যেতে পারে এবং তার ছেলেকে ফেলে রেখে যেতে পারে।",
+      "questions": [
         {
           "id": "q30",
           "type": "match",
           "pairs": [
-            { "left": "The Orphanage", "right": "A wholesome place" },
-            { "left": "The Narrator", "right": "Shocked and resentful" },
-            { "left": "Jerry", "right": "Leaned against the fire" }
+            { "left": "Jerry's news", "right": "Shocked the narrator" },
+            { "left": "The Mother", "right": "Lives in Mannville" },
+            { "left": "The Narrator", "right": "Felt resentment" }
           ],
-          "explanation": "Reflects the narrator's inner thoughts and descriptions at the end of the passage."
+          "explanation": "Matches the reaction and details of the revelation about Jerry's mother."
         }
       ]
     }
