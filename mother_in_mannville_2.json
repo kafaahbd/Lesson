@@ -40,7 +40,7 @@
         {
           "id": "q4",
           "type": "gapfill",
-          "question": "Complete the observation about the morning work.",
+          "question": "A stack of ________ was neat against the cabin wall.",
           "wordBank": ["kindling", "cabin", "wood", "stone", "house"],
           "answer": "kindling",
           "explanation": "The text says 'a stack of kindling was neat against the cabin wall.'"
