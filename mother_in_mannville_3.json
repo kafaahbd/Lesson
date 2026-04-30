@@ -43,7 +43,7 @@
         {
           "id": "q13",
           "type": "gapfill",
-          "question": "He fixed a ________ stone in the walk and stored ________ wood for wet weather.",
+          "question": "He fixed a ___ stone in the walk and stored ___ wood for wet weather.",
           "wordBank": ["loose", "dry", "heavy", "wet", "broken"],
           "answers": ["loose", "dry"],
           "explanation": "He steadied a loose stone and ensured there was dry fire material available."
@@ -113,7 +113,7 @@
         {
           "id": "q18",
           "type": "gapfill",
-          "question": "Jerry was ________ when the narrator was late, so he shared his own ________ with the dog.",
+          "question": "Jerry was ___ when the narrator was late, so he shared his own ___ with the dog.",
           "wordBank": ["anxious", "breakfast", "happy", "dinner", "tired"],
           "answers": ["anxious", "breakfast"],
           "explanation": "Jerry was worried about the narrator's absence and gave Pat part of his own meal."
