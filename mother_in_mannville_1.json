@@ -1,10 +1,12 @@
 {
   "id": "mother_in_mannville_1",
-  "name": "A Mother in Mannville",
   "type": "story",
+  "title": "A Mother in Mannville",
   "parts": [
     {
-      "text": "The orphanage is high in the Carolina mountains. I was there in the autumn. I wanted quiet, isolation, to do some troublesome writing.",
+      "id": "part_1",
+      "content": "The orphanage is high in the Carolina mountains. I was there in the autumn. I wanted quiet, isolation, to do some troublesome writing.",
+      "translation": "অনাথ আশ্রমটি ক্যারোলিনা পাহাড়ের উঁচুতে অবস্থিত। আমি সেখানে শরৎকালে ছিলাম। আমি কিছু কষ্টকর লেখালেখি করার জন্য নির্জনতা ও একাকিত্ব চেয়েছিলাম।",
       "questions": [
         {
           "id": "q1",
@@ -17,20 +19,24 @@
       ]
     },
     {
-      "text": "I wanted mountain air to blow out the malaria from too long a time in the subtropics. I was homesick too, for the flaming of maples in October.",
+      "id": "part_2",
+      "content": "I wanted mountain air to blow out the malaria from too long a time in the subtropics. I was homesick too, for the flaming of maples in October.",
+      "translation": "আমি চেয়েছিলাম পাহাড়ের বাতাস আমার শরীর থেকে উপ-উষ্ণমন্ডলীয় অঞ্চলে দীর্ঘ সময় থাকার ফলে হওয়া ম্যালেরিয়া দূর করে দিক। আমি অক্টোবরের উজ্জ্বল ম্যাপেল গাছ দেখার জন্য ঘরকাতরও হয়ে পড়েছিলাম।",
       "questions": [
         {
           "id": "q2",
           "type": "gapfill",
-          "question": "The narrator wanted the mountain air to blow out the ___.",
+          "question": "The narrator wanted the mountain air to blow out the ________.",
           "wordBank": ["malaria", "cold", "smoke", "dust"],
           "answer": "malaria",
-          "explanation": "She mentions wanting to clear out the malaria after spending too much time in the subtropics."
+          "explanation": "The narrator wanted to clear out the malaria after spending too much time in the subtropics."
         }
       ]
     },
     {
-      "text": "I found them all living in a cabin that belonged to the orphanage, half a mile beyond the orphanage farm.",
+      "id": "part_3",
+      "content": "I found them all living in a cabin that belonged to the orphanage, half a mile beyond the orphanage farm.",
+      "translation": "আমি তাদের সবাইকে অনাথ আশ্রমের একটি কেবিনে বসবাস করতে দেখলাম, যেটি আশ্রমের খামার থেকে আধ মাইল দূরে অবস্থিত ছিল।",
       "questions": [
         {
           "id": "q3",
@@ -43,60 +49,65 @@
       ]
     },
     {
-      "text": "When I took the cabin, I asked for a boy or man to come and chop wood for the fireplace.",
+      "id": "part_4",
+      "content": "When I took the cabin, I asked for a boy or man to come and chop wood for the fireplace.",
+      "translation": "যখন আমি কেবিনটি ভাড়া নিলাম, আমি ফায়ারপ্লেসের জন্য কাঠ কাটতে একজন ছেলে বা একজন লোকের জন্য অনুরোধ করেছিলাম।",
       "questions": [
         {
           "id": "q4",
-          "type": "gapfill",
-          "question": "The narrator needed someone to ___ wood.",
-          "wordBank": ["stack", "chop", "burn", "sell"],
-          "answer": "chop",
-          "explanation": "She requested help specifically to chop wood for her fireplace."
+          "type": "fill",
+          "question": "The narrator needed someone to ________ wood.",
+          "answers": ["chop", "cut"]
         }
       ]
     },
     {
-      "text": "I looked up from my typewriter one late afternoon, a little startled. A boy stood at the door and my pointer dog, my companion, was at his side and had not barked to warn me.",
+      "id": "part_5",
+      "content": "I looked up from my typewriter one late afternoon, a little startled. A boy stood at the door and my pointer dog, my companion, was at his side and had not barked to warn me.",
+      "translation": "একদিন শেষ বিকেলে আমি টাইপরাইটার থেকে মাথা তুললাম, কিছুটা চমকে গিয়ে। দরজায় একটি ছেলে দাঁড়িয়ে ছিল এবং আমার সঙ্গী পয়েন্টার কুকুরটি তার পাশেই ছিল, আমাকে সতর্ক করার জন্য সে ঘেউ ঘেউ করেনি।",
       "questions": [
         {
           "id": "q5",
-          "type": "match",
-          "pairs": [
-            { "left": "Typewriter", "right": "Narrator's tool" },
-            { "left": "Pointer dog", "right": "Silent companion" },
-            { "left": "Late afternoon", "right": "Time of arrival" }
-          ]
+          "type": "fill",
+          "question": "The dog did not ________ to warn the narrator.",
+          "answers": ["bark"]
         }
       ]
     },
     {
-      "text": "The boy was probably twelve years old, but undersized. He wore overalls and a torn shirt, and was barefooted.",
+      "id": "part_6",
+      "content": "The boy was probably twelve years old, but undersized. He wore overalls and a torn shirt, and was barefooted.",
+      "translation": "ছেলেটির বয়স সম্ভবত বারো বছর ছিল, কিন্তু সে আকারে বেশ ছোট ছিল। সে একটি ওভারঅল এবং একটি ছেঁড়া শার্ট পরে ছিল এবং তার পা খালি ছিল।",
       "questions": [
         {
           "id": "q6",
           "type": "mcq",
-          "question": "What was unusual about the boy's appearance given the setting?",
-          "options": ["He was wearing a suit", "He was barefooted", "He was very tall", "He had no shirt"],
+          "question": "What was unusual about the boy's appearance given the mountain setting?",
+          "options": ["He wore a suit", "He was barefooted", "He was very tall", "He had no shirt"],
           "answer": "He was barefooted",
-          "explanation": "The description highlights that he was barefooted despite being in the mountains."
+          "explanation": "The text highlights that the boy was barefooted despite being in the mountain region."
         }
       ]
     },
     {
-      "text": "He said, 'I can chop some wood today.' 'You? But you're small.' 'Size don't matter, chopping wood,' he said.",
+      "id": "part_7",
+      "content": "He said, 'I can chop some wood today.' 'You? But you're small.' 'Size don't matter, chopping wood,' he said.",
+      "translation": "সে বলল, 'আমি আজ কিছু কাঠ কাটতে পারি।' 'তুমি? কিন্তু তুমি তো অনেক ছোট।' 'কাঠ কাটার ক্ষেত্রে আকার কোনো ব্যাপার না,' সে বলল।",
       "questions": [
         {
           "id": "q7",
           "type": "gapfill",
-          "question": "The boy argued that ___ does not matter when chopping wood.",
+          "question": "The boy argued that ________ does not matter when chopping wood.",
           "wordBank": ["strength", "size", "age", "speed"],
           "answer": "size",
-          "explanation": "The boy directly states, 'Size don't matter, chopping wood.'"
+          "explanation": "The boy explicitly states that his small size is not a problem for chopping wood."
         }
       ]
     },
     {
-      "text": "'Some of the big boys don't chop good. I've been chopping wood at the orphanage a long time.'",
+      "id": "part_8",
+      "content": "'Some of the big boys don't chop good. I've been chopping wood at the orphanage a long time.'",
+      "translation": "'বড় ছেলেদের অনেকে ভালো কাঠ কাটতে পারে না। আমি অনাথ আশ্রমে অনেকদিন ধরে কাঠ কাটছি।'",
       "questions": [
         {
           "id": "q8",
@@ -104,37 +115,35 @@
           "question": "Where did the boy gain his experience?",
           "options": ["At home", "At the orphanage", "At the farm", "In the woods"],
           "answer": "At the orphanage",
-          "explanation": "He mentions he has been chopping wood at the orphanage for a long time."
+          "explanation": "The boy mentions he has been chopping wood at the orphanage for a long time."
         }
       ]
     },
     {
-      "text": "I went back to work, closing the door. He began to chop. The blows were rhythmic and steady, and shortly I had forgotten him.",
+      "id": "part_9",
+      "content": "I went back to work, closing the door. He began to chop. The blows were rhythmic and steady, and shortly I had forgotten him.",
+      "translation": "আমি দরজা বন্ধ করে আবার কাজে ফিরে গেলাম। সে কাঠ কাটা শুরু করল। আঘাতগুলো ছিল ছন্দময় এবং স্থির, আর অল্প সময়ের মধ্যেই আমি তার কথা ভুলে গেলাম।",
       "questions": [
         {
           "id": "q9",
-          "type": "gapfill",
-          "question": "The narrator described the sound of the chopping as ___ and steady.",
-          "wordBank": ["loud", "fast", "rhythmic", "heavy"],
-          "answer": "rhythmic",
-          "explanation": "The text describes the blows as 'rhythmic and steady'."
+          "type": "fill",
+          "question": "The blows of the axe were rhythmic and ________.",
+          "answers": ["steady"]
         }
       ]
     },
     {
-      "text": "I heard the boy's steps on the cabin stoop. We went together back of the cabin. An astonishing amount of solid wood had been cut. 'But you've done as much as a man,' I said.",
+      "id": "part_10",
+      "content": "I heard the boy's steps on the cabin stoop. We went together back of the cabin. An astonishing amount of solid wood had been cut. 'But you've done as much as a man,' I said.",
+      "translation": "আমি কেবিনের বারান্দায় ছেলেটির পায়ের শব্দ শুনতে পেলাম। আমরা একসাথে কেবিনের পেছনে গেলাম। সেখানে বিস্ময়কর পরিমাণে শক্ত কাঠ কাটা হয়েছিল। 'তুমি তো একজন প্রাপ্তবয়স্ক মানুষের সমান কাজ করেছ,' আমি বললাম।",
       "questions": [
         {
           "id": "q10",
-          "type": "match",
-          "pairs": [
-            { "left": "The result", "right": "Astonishing amount of wood" },
-            { "left": "The comparison", "right": "As much as a man" },
-            { "left": "The quality", "right": "Solid wood" }
-          ]
+          "type": "fill",
+          "question": "The narrator said the boy had done as much as a ________.",
+          "answers": ["man", "grown-up"]
         }
       ]
     }
   ]
 }
-
