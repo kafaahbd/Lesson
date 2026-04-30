@@ -1,114 +1,159 @@
 {
-  "id": "mother_in_mannville_2",
+  "id": "mother_in_mannville_1",
   "type": "story",
-  "title": "A Mother in Mannville - Part 2",
+  "title": "A Mother in Mannville",
   "parts": [
     {
       "id": "part_1",
-      "content": "I looked at him, actually, for the first time. His hair was the color of the corn shocks and his eyes, very direct, were like the mountain sky when rain is pending - gray, with a shadowing of that miraculous blue.... I gave him a quarter. 'You may come tomorrow afternoon,' I said, 'and thank you very much.' He looked at me, and at the coin, and seemed to want to speak, but could not, and turned away....",
-      "translation": "আমি আসলে প্রথমবারের মতো তার দিকে তাকালাম। তার চুলের রঙ ছিল ভুট্টার গুচ্ছের মতো এবং তার চোখগুলো ছিল সরাসরি, অনেকটা বৃষ্টি আসার আগের পাহাড়ের আকাশের মতো - ধূসর, সাথে সেই অলৌকিক নীল আভা। আমি তাকে একটি কোয়ার্টার (মুদ্রা) দিলাম। আমি বললাম, 'তুমি আগামীকাল বিকেলে আসতে পারো, তোমাকে অনেক ধন্যবাদ।' সে আমার দিকে এবং মুদ্রার দিকে তাকাল, কিছু বলতে চাইল বলে মনে হলো, কিন্তু পারল না এবং মুখ ফিরিয়ে চলে গেল।",
+      "content": "The orphanage is high in the Carolina mountains. I was there in the autumn. I wanted quiet, isolation, to do some troublesome writing.",
+      "translation": "অনাথ আশ্রমটি ক্যারোলিনা পাহাড়ের উঁচুতে অবস্থিত। আমি সেখানে শরৎকালে ছিলাম। আমি কিছু কষ্টকর লেখালেখি করার জন্য নির্জনতা ও একাকিত্ব চেয়েছিলাম।",
       "questions": [
         {
           "id": "q1",
           "type": "mcq",
-          "question": "What color were the boy's eyes described as?",
-          "options": ["Green", "Gray-blue", "Brown", "Black"],
-          "answer": "Gray-blue",
-          "explanation": "The text describes them as 'gray, with a shadowing of that miraculous blue'."
-        },
-        {
-          "id": "q2",
-          "type": "fill",
-          "question": "The boy's hair was the color of ________ shocks.",
-          "answers": ["corn", "corn shocks", "the corn shocks"],
-          "explanation": "The text states his hair was 'the color of the corn shocks'."
+          "question": "What season was it when the narrator was at the orphanage?",
+          "options": ["Spring", "Summer", "Autumn", "Winter"],
+          "answer": "Autumn",
+          "explanation": "The text explicitly states, 'I was there in the autumn.'"
         }
       ]
     },
     {
       "id": "part_2",
-      "content": "At daylight I was half wakened by the sound of chopping. Again it was so even in texture that I went back to sleep. When I left my bed in the cool morning, the boy had come and gone, and a stack of kindling was neat against the cabin wall.",
-      "translation": "ভোরবেলায় কাঠ কাটার শব্দে আমার ঘুম আধো আধো ভেঙে গেল। শব্দটা এতটাই সুষম ছিল যে আমি আবার ঘুমিয়ে পড়লাম। যখন আমি শীতল সকালে বিছানা ছাড়লাম, ছেলেটি ততক্ষণে এসে চলেও গিয়েছে, আর এক গাদা জ্বালানি কাঠ কেবিনের দেয়ালের সাথে পরিপাটি করে রাখা ছিল।",
+      "content": "I wanted mountain air to blow out the malaria from too long a time in the subtropics. I was homesick too, for the flaming of maples in October.",
+      "translation": "আমি চেয়েছিলাম পাহাড়ের বাতাস আমার শরীর থেকে উপ-উষ্ণমন্ডলীয় অঞ্চলে দীর্ঘ সময় থাকার ফলে হওয়া ম্যালেরিয়া দূর করে দিক। আমি অক্টোবরের উজ্জ্বল ম্যাপেল গাছ দেখার জন্য ঘরকাতরও হয়ে পড়েছিলাম।",
       "questions": [
         {
-          "id": "q3",
-          "type": "fill",
-          "question": "What sound half wakened the narrator at daylight?",
-          "answers": ["chopping", "the sound of chopping", "wood chopping"],
-          "explanation": "The narrator mentions being wakened by the sound of chopping."
-        },
-        {
-          "id": "q4",
+          "id": "q2",
           "type": "gapfill",
-          "question": "A stack of ________ was neat against the cabin wall.",
-          "wordBank": ["kindling", "cabin", "wood", "stone", "house"],
-          "answer": "kindling",
-          "explanation": "The text says 'a stack of kindling was neat against the cabin wall.'"
+          "question": "The narrator wanted the mountain air to blow out the ________.",
+          "wordBank": ["malaria", "cold", "smoke", "dust"],
+          "answer": "malaria",
+          "explanation": "She mentions wanting to clear out the malaria after spending too much time in the subtropics."
         }
       ]
     },
     {
       "id": "part_3",
-      "content": "He came after school in the afternoon and worked until time to return to the orphanage. His name was Jerry.... he had been at the orphanage since he was four. I could picture him at four, with the same grave gray-blue eyes and the same - independence? No, the word that comes to me is 'integrity'.... It is bedded on courage, but it is more than brave. It is honest, but it is more than honesty.",
-      "translation": "সে বিকেলে স্কুল শেষ করে আসত এবং অনাথ আশ্রমে ফেরার সময় না হওয়া পর্যন্ত কাজ করত। তার নাম ছিল জেরি। সে চার বছর বয়স থেকে অনাথ আশ্রমে ছিল। আমি তাকে চার বছর বয়সে কল্পনা করতে পারি, সেই একই গম্ভীর ধূসর-নীল চোখ আর সেই একই - স্বাধীনতা? না, আমার মনে যে শব্দটি আসে তা হলো 'চারিত্রিক দৃঢ়তা (integrity)'। এটি সাহসের ওপর ভিত্তি করে গড়ে ওঠে, কিন্তু এটি সাহসের চেয়েও বেশি কিছু। এটি সততা, কিন্তু এটি সাধারণ সততার চেয়েও মহৎ কিছু।",
+      "content": "I found them all living in a cabin that belonged to the orphanage, half a mile beyond the orphanage farm.",
+      "translation": "আমি তাদের সবাইকে অনাথ আশ্রমের একটি কেবিনে বসবাস করতে দেখলাম, যেটি আশ্রমের খামার থেকে আধ মাইল দূরে অবস্থিত ছিল।",
       "questions": [
         {
-          "id": "q5",
+          "id": "q3",
           "type": "mcq",
-          "question": "How long had Jerry been at the orphanage?",
-          "options": ["Since he was born", "Since he was four", "Since he was ten", "For two years"],
-          "answer": "Since he was four",
-          "explanation": "The text says 'he had been at the orphanage since he was four.'"
-        },
-        {
-          "id": "q6",
-          "type": "match",
-          "pairs": [
-            { "left": "Jerry", "right": "The boy from the orphanage" },
-            { "left": "Integrity", "right": "Bedded on courage" },
-            { "left": "Eyes", "right": "Grave and gray-blue" }
-          ],
-          "explanation": "Matches the boy's name, his defining quality, and his physical description."
-        },
-        {
-          "id": "q7",
-          "type": "fill",
-          "question": "What specific word does the narrator use to describe the boy's character?",
-          "answers": ["integrity"],
-          "explanation": "The narrator identifies 'integrity' as the key word for Jerry's character."
+          "question": "Where was the cabin located in relation to the farm?",
+          "options": ["Right next to it", "Across the road", "Half a mile beyond it", "In the center of it"],
+          "answer": "Half a mile beyond it",
+          "explanation": "The cabin was situated half a mile past the orphanage farm."
         }
       ]
     },
     {
       "id": "part_4",
-      "content": "The ax handle broke one day. Jerry said the woodshop at the orphanage would repair it. I brought money to pay for the job and he refused it. 'I'll pay for it,' he said. 'I broke it. I brought the ax down careless.' 'But no one hits accurately every time,' I told him. 'The fault was in the wood of the handle. I'll see the man from whom I bought it'",
-      "translation": "একদিন কুঠারের হাতলটি ভেঙে গেল। জেরি বলল অনাথ আশ্রমের কাঠের দোকান এটি মেরামত করে দেবে। আমি মেরামতের খরচের জন্য টাকা নিয়ে এলাম কিন্তু সে তা নিতে অস্বীকার করল। 'আমি এটার দাম দেব,' সে বলল। 'আমি এটা ভেঙেছি। আমি অসাবধানতাবশত কুঠারটি চালিয়েছিলাম।' 'কিন্তু কেউ তো সবসময় নিখুঁতভাবে আঘাত করতে পারে না,' আমি তাকে বললাম। 'ত্রুটিটি ছিল হাতলের কাঠে। যে লোকটির কাছ থেকে আমি এটি কিনেছি আমি তার সাথে কথা বলব।'",
+      "content": "When I took the cabin, I asked for a boy or man to come and chop wood for the fireplace.",
+      "translation": "যখন আমি কেবিনটি ভাড়া নিলাম, আমি ফায়ারপ্লেসের জন্য কাঠ কাটতে একজন ছেলে বা একজন লোকের জন্য অনুরোধ করেছিলাম।",
+      "questions": [
+        {
+          "id": "q4",
+          "type": "gapfill",
+          "question": "The narrator needed someone to ________ wood.",
+          "wordBank": ["stack", "chop", "burn", "sell"],
+          "answer": "chop",
+          "explanation": "She requested help specifically to chop wood for her fireplace."
+        }
+      ]
+    },
+    {
+      "id": "part_5",
+      "content": "I looked up from my typewriter one late afternoon, a little startled. A boy stood at the door and my pointer dog, my companion, was at his side and had not barked to warn me.",
+      "translation": "একদিন শেষ বিকেলে আমি টাইপরাইটার থেকে মাথা তুললাম, কিছুটা চমকে গিয়ে। দরজায় একটি ছেলে দাঁড়িয়ে ছিল এবং আমার সঙ্গী পয়েন্টার কুকুরটি তার পাশেই ছিল, আমাকে সতর্ক করার জন্য সে ঘেউ ঘেউ করেনি।",
+      "questions": [
+        {
+          "id": "q5",
+          "type": "match",
+          "pairs": [
+            { "left": "Typewriter", "right": "Narrator's tool" },
+            { "left": "Pointer dog", "right": "Silent companion" },
+            { "left": "Late afternoon", "right": "Time of arrival" }
+          ],
+          "explanation": "Matches the narrator's activity, the dog's behavior, and the timing of the scene."
+        }
+      ]
+    },
+    {
+      "id": "part_6",
+      "content": "The boy was probably twelve years old, but undersized. He wore overalls and a torn shirt, and was barefooted.",
+      "translation": "ছেলেটির বয়স সম্ভবত বারো বছর ছিল, কিন্তু সে আকারে বেশ ছোট ছিল। সে একটি ওভারঅল এবং একটি ছেঁড়া শার্ট পরে ছিল এবং তার পা খালি ছিল।",
+      "questions": [
+        {
+          "id": "q6",
+          "type": "mcq",
+          "question": "What was unusual about the boy's appearance given the setting?",
+          "options": ["He was wearing a suit", "He was barefooted", "He was very tall", "He had no shirt"],
+          "answer": "He was barefooted",
+          "explanation": "The description highlights that he was barefooted despite being in the mountains."
+        }
+      ]
+    },
+    {
+      "id": "part_7",
+      "content": "He said, 'I can chop some wood today.' 'You? But you're small.' 'Size don't matter, chopping wood,' he said.",
+      "translation": "সে বলল, 'আমি আজ কিছু কাঠ কাটতে পারি।' 'তুমি? কিন্তু তুমি তো অনেক ছোট।' 'কাঠ কাটার ক্ষেত্রে আকার কোনো ব্যাপার না,' সে বলল।",
+      "questions": [
+        {
+          "id": "q7",
+          "type": "gapfill",
+          "question": "The boy argued that ________ does not matter when chopping wood.",
+          "wordBank": ["strength", "size", "age", "speed"],
+          "answer": "size",
+          "explanation": "The boy directly states, 'Size don't matter, chopping wood.'"
+        }
+      ]
+    },
+    {
+      "id": "part_8",
+      "content": "'Some of the big boys don't chop good. I've been chopping wood at the orphanage a long time.'",
+      "translation": "'বড় ছেলেদের অনেকে ভালো কাঠ কাটতে পারে না। আমি অনাথ আশ্রমে অনেকদিন ধরে কাঠ কাটছি।'",
       "questions": [
         {
           "id": "q8",
           "type": "mcq",
-          "question": "Why did Jerry refuse the money for the ax handle repair?",
-          "options": ["He didn't need it", "He blamed himself for being careless", "He was angry", "The repair was free"],
-          "answer": "He blamed himself for being careless",
-          "explanation": "He said, 'I'll pay for it... I broke it. I brought the ax down careless.'"
-        },
+          "question": "Where did the boy gain his experience?",
+          "options": ["At home", "At the orphanage", "At the farm", "In the woods"],
+          "answer": "At the orphanage",
+          "explanation": "He mentions he has been chopping wood at the orphanage for a long time."
+        }
+      ]
+    },
+    {
+      "id": "part_9",
+      "content": "I went back to work, closing the door. He began to chop. The blows were rhythmic and steady, and shortly I had forgotten him.",
+      "translation": "আমি দরজা বন্ধ করে আবার কাজে ফিরে গেলাম। সে কাঠ কাটা শুরু করল। আঘাতগুলো ছিল ছন্দময় এবং স্থির, আর অল্প সময়ের মধ্যেই আমি তার কথা ভুলে গেলাম।",
+      "questions": [
         {
           "id": "q9",
           "type": "gapfill",
-          "question": "I brought the ax down ________.",
-          "wordBank": ["ax", "careless", "hammer", "hard", "wrong"],
-          "answer": "careless",
-          "explanation": "Jerry says 'I brought the ax down careless.'"
-        },
+          "question": "The narrator described the sound of the chopping as ________ and steady.",
+          "wordBank": ["loud", "fast", "rhythmic", "heavy"],
+          "answer": "rhythmic",
+          "explanation": "The text describes the blows as 'rhythmic and steady'."
+        }
+      ]
+    },
+    {
+      "id": "part_10",
+      "content": "I heard the boy's steps on the cabin stoop. We went together back of the cabin. An astonishing amount of solid wood had been cut. 'But you've done as much as a man,' I said.",
+      "translation": "আমি কেবিনের বারান্দায় ছেলেটির পায়ের শব্দ শুনতে পেলাম। আমরা একসাথে কেবিনের পেছনে গেলাম। সেখানে বিস্ময়কর পরিমাণে শক্ত কাঠ কাটা হয়েছিল। 'তুমি তো একজন প্রাপ্তবয়স্ক মানুষের সমান কাজ করেছ,' আমি বললাম।",
+      "questions": [
         {
           "id": "q10",
           "type": "match",
           "pairs": [
-            { "left": "Jerry", "right": "Blamed his own carelessness" },
-            { "left": "The Narrator", "right": "Blamed the wood of the handle" },
-            { "left": "The Woodshop", "right": "Place where repair would happen" }
+            { "left": "The result", "right": "Astonishing amount of wood" },
+            { "left": "The comparison", "right": "As much as a man" },
+            { "left": "The quality", "right": "Solid wood" }
           ],
-          "explanation": "Summarizes the differing perspectives on the broken ax handle."
+          "explanation": "Summarizes the narrator's reaction to the boy's hard work."
         }
       ]
     }
