@@ -1,10 +1,12 @@
 {
   "id": "mother_in_mannville_3",
-  "name": "The Character of Jerry",
   "type": "story",
+  "title": "The Character of Jerry",
   "parts": [
     {
-      "text": "It was only then that he would take the money. He was standing back of his own carelessness. He was a free-will agent and he chose to do careful work, and if he failed, he took the responsibility without subterfuge.",
+      "id": "part_11",
+      "content": "It was only then that he would take the money. He was standing back of his own carelessness. He was a free-will agent and he chose to do careful work, and if he failed, he took the responsibility without subterfuge.",
+      "translation": "কেবল তখনই সে টাকাটা নিত। সে নিজের অসাবধানতার দায় নিজেই নিত। সে ছিল নিজের ইচ্ছাধীন এক প্রতিনিধি এবং সে সচেতনভাবে কাজ করাকেই বেছে নিয়েছিল, আর যদি সে ব্যর্থ হতো, তবে কোনো অজুহাত ছাড়াই সে তার দায়িত্ব গ্রহণ করত।",
       "questions": [
         {
           "id": "q11",
@@ -22,7 +24,9 @@
       ]
     },
     {
-      "text": "He found a cubbyhole beside the fireplace that I had not noticed. There, of his own accord, he put kindling and 'medium' wood, so that I might always have dry fire material ready in case of sudden wet weather. A stone was loose in the rough walk to the cabin. He dug a deeper hole and steadied it.",
+      "id": "part_12",
+      "content": "He found a cubbyhole beside the fireplace that I had not noticed. There, of his own accord, he put kindling and 'medium' wood, so that I might always have dry fire material ready in case of sudden wet weather. A stone was loose in the rough walk to the cabin. He dug a deeper hole and steadied it.",
+      "translation": "সে ফায়ারপ্লেসের পাশে একটি ছোট খুপরি খুঁজে পেল যা আমি লক্ষ্য করিনি। সেখানে সে নিজের ইচ্ছায় কিছু ছোট জ্বালানি এবং মাঝারি আকারের কাঠ রেখেছিল, যাতে হঠাৎ ভেজা আবহাওয়া হলে আমার কাছে সবসময় শুকনো জ্বালানি তৈরি থাকে। কেবিনের দিকে যাওয়ার অমসৃণ পথে একটি পাথর আলগা হয়ে গিয়েছিল। সে একটি গভীর গর্ত খুঁড়ল এবং পাথরটি সেখানে বসিয়ে শক্ত করল।",
       "questions": [
         {
           "id": "q12",
@@ -39,16 +43,17 @@
         {
           "id": "q13",
           "type": "gapfill",
-          "question": "Jerry performed acts of service without being asked.",
-          "text": "He fixed a ___ stone in the walk and stored ___ wood for wet weather.",
-          "answers": ["loose", "dry"],
+          "question": "He fixed a ________ stone in the walk and stored ________ wood for wet weather.",
           "wordBank": ["loose", "dry", "heavy", "wet", "broken"],
+          "answers": ["loose", "dry"],
           "explanation": "He steadied a loose stone and ensured there was dry fire material available."
         }
       ]
     },
     {
-      "text": "I found that when I tried to return his thoughtfulness with such things as candy and apples, he was wordless. 'Thank you' was, perhaps, an expression for which he had had no use, for his courtesy was Instinctive.",
+      "id": "part_13",
+      "content": "I found that when I tried to return his thoughtfulness with such things as candy and apples, he was wordless. 'Thank you' was, perhaps, an expression for which he had had no use, for his courtesy was Instinctive.",
+      "translation": "আমি দেখলাম যে যখনই আমি মিছরি বা আপেলের মতো জিনিস দিয়ে তার সহমর্মিতার প্রতিদান দেওয়ার চেষ্টা করতাম, সে নির্বাক হয়ে যেত। 'ধন্যবাদ' হয়তো এমন একটি শব্দ ছিল যার কোনো ব্যবহার তার জানা ছিল না, কারণ তার শিষ্টাচার ছিল সহজাত।",
       "questions": [
         {
           "id": "q14",
@@ -66,7 +71,7 @@
         {
           "id": "q15",
           "type": "fill",
-          "question": "The narrator describes Jerry's courtesy as ___.",
+          "question": "The narrator describes Jerry's courtesy as ________.",
           "answers": [
             "Instinctive",
             "instinctive"
@@ -76,7 +81,9 @@
       ]
     },
     {
-      "text": "He became intimate, of course, with my pointer, Pat. There is a strange communion between a boy and a dog. When I went across the state for a weekend, I left the dog in Jerry's charge....",
+      "id": "part_14",
+      "content": "He became intimate, of course, with my pointer, Pat. There is a strange communion between a boy and a dog. When I went across the state for a weekend, I left the dog in Jerry's charge....",
+      "translation": "অবশ্যই, আমার পয়েন্টার কুকুর প্যাটের সাথে তার খুব ঘনিষ্ঠতা হয়ে গিয়েছিল। একটি ছেলে এবং একটি কুকুরের মধ্যে এক অদ্ভুত সংযোগ থাকে। যখন আমি সপ্তাহের ছুটির জন্য রাজ্যের অন্য প্রান্তে গেলাম, আমি কুকুরটিকে জেরির দায়িত্বে রেখে গিয়েছিলাম।",
       "questions": [
         {
           "id": "q16",
@@ -99,15 +106,16 @@
       ]
     },
     {
-      "text": "The dog had been fed and cared for that morning. Jerry came early in the afternoon, anxious. 'I came.... last night and you hadn't come. So I brought Pat some of my breakfast this morning.'",
+      "id": "part_15",
+      "content": "The dog had been fed and cared for that morning. Jerry came early in the afternoon, anxious. 'I came.... last night and you hadn't come. So I brought Pat some of my breakfast this morning.'",
+      "translation": "সেদিন সকালে কুকুরটিকে খাওয়ানো হয়েছিল এবং যত্ন নেওয়া হয়েছিল। দুপুরে জেরি উদ্বিগ্ন হয়ে একটু তাড়াতাড়িই চলে এল। 'আমি কাল রাতে এসেছিলাম কিন্তু আপনি আসেননি। তাই আজ সকালে আমি আমার প্রাতরাশের কিছু অংশ প্যাটের জন্য নিয়ে এসেছি।'",
       "questions": [
         {
           "id": "q18",
           "type": "gapfill",
-          "question": "Jerry went above and beyond to care for the dog.",
-          "text": "Jerry was ___ when the narrator was late, so he shared his own ___ with the dog.",
-          "answers": ["anxious", "breakfast"],
+          "question": "Jerry was ________ when the narrator was late, so he shared his own ________ with the dog.",
           "wordBank": ["anxious", "breakfast", "happy", "dinner", "tired"],
+          "answers": ["anxious", "breakfast"],
           "explanation": "Jerry was worried about the narrator's absence and gave Pat part of his own meal."
         },
         {
@@ -136,4 +144,3 @@
     }
   ]
 }
-
