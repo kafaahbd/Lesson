@@ -1,144 +1,159 @@
 {
-  "id": "mother_in_mannville_3",
+  "id": "mother_in_mannville_extra_v2",
   "type": "story",
-  "title": "The Character of Jerry",
+  "title": "Character of Jerry",
   "parts": [
     {
-      "id": "part_11",
-      "content": "It was only then that he would take the money. He was standing back of his own carelessness. He was a free-will agent and he chose to do careful work, and if he failed, he took the responsibility without subterfuge.",
-      "translation": "কেবল তখনই সে টাকাটা নিত। সে নিজের অসাবধানতার দায় নিজেই নিত। সে ছিল নিজের ইচ্ছাধীন এক প্রতিনিধি এবং সে সচেতনভাবে কাজ করাকেই বেছে নিয়েছিল, আর যদি সে ব্যর্থ হতো, তবে কোনো অজুহাত ছাড়াই সে তার দায়িত্ব গ্রহণ করত।",
+      "id": "part_1",
+      "content": "He was a free-will agent and he chose to do careful work, and if he failed, he took the responsibility without subterfuge.",
+      "translation": "সে ছিল একজন স্বাধীনচেতা মানুষ এবং সে যত্ন সহকারে কাজ করা পছন্দ করত। যদি সে ব্যর্থ হতো, তবে সে কোনো অজুহাত ছাড়াই তার দায়ভার গ্রহণ করত।",
       "questions": [
         {
-          "id": "q11",
+          "id": "q1",
           "type": "mcq",
-          "question": "What does the narrator mean by saying Jerry was a 'free-will agent'?",
-          "options": [
-            "He worked for free",
-            "He chose to take responsibility for his actions",
-            "He was looking for a new job",
-            "He did not like following rules"
-          ],
-          "answer": "He chose to take responsibility for his actions",
-          "explanation": "The text explains that he chose to do careful work and accepted failure without excuses."
+          "question": "What kind of agent was Jerry described as?",
+          "options": ["A forced worker", "A free-will agent", "A lazy boy", "A hired servant"],
+          "answer": "A free-will agent",
+          "explanation": "The text explicitly describes him as a 'free-will agent'."
         }
       ]
     },
     {
-      "id": "part_12",
-      "content": "He found a cubbyhole beside the fireplace that I had not noticed. There, of his own accord, he put kindling and 'medium' wood, so that I might always have dry fire material ready in case of sudden wet weather. A stone was loose in the rough walk to the cabin. He dug a deeper hole and steadied it.",
-      "translation": "সে ফায়ারপ্লেসের পাশে একটি ছোট খুপরি খুঁজে পেল যা আমি লক্ষ্য করিনি। সেখানে সে নিজের ইচ্ছায় কিছু ছোট জ্বালানি এবং মাঝারি আকারের কাঠ রেখেছিল, যাতে হঠাৎ ভেজা আবহাওয়া হলে আমার কাছে সবসময় শুকনো জ্বালানি তৈরি থাকে। কেবিনের দিকে যাওয়ার অমসৃণ পথে একটি পাথর আলগা হয়ে গিয়েছিল। সে একটি গভীর গর্ত খুঁড়ল এবং পাথরটি সেখানে বসিয়ে শক্ত করল।",
+      "id": "part_2",
+      "content": "He found a cubbyhole beside the fireplace that I had not noticed. There, of his own accord, he put kindling and 'medium' wood.",
+      "translation": "সে আগুনের চুল্লির পাশে একটি ছোট কুঠুরি খুঁজে পেয়েছিল যা আমি লক্ষ্য করিনি। সেখানে সে নিজের ইচ্ছায় কিছু জ্বালানি এবং মাঝারি আকারের কাঠ রেখেছিল।",
       "questions": [
         {
-          "id": "q12",
-          "type": "fill",
-          "question": "Where did Jerry put the kindling and medium wood?",
-          "answers": [
-            "a cubbyhole",
-            "the cubbyhole",
-            "beside the fireplace",
-            "a cubbyhole beside the fireplace"
-          ],
-          "explanation": "Jerry found a cubbyhole beside the fireplace to store dry wood."
-        },
-        {
-          "id": "q13",
+          "id": "q2",
           "type": "gapfill",
-          "question": "He fixed a ___ stone in the walk and stored ___ wood for wet weather.",
-          "wordBank": ["loose", "dry", "heavy", "wet", "broken"],
-          "answers": ["loose", "dry"],
-          "explanation": "He steadied a loose stone and ensured there was dry fire material available."
+          "question": "Jerry put wood in a ___ beside the ___ of his own accord.",
+          "wordBank": ["cubbyhole", "fireplace", "garden", "window", "box"],
+          "answers": ["cubbyhole", "fireplace"],
+          "explanation": "He found a cubbyhole near the fireplace to keep the wood dry."
         }
       ]
     },
     {
-      "id": "part_13",
-      "content": "I found that when I tried to return his thoughtfulness with such things as candy and apples, he was wordless. 'Thank you' was, perhaps, an expression for which he had had no use, for his courtesy was Instinctive.",
-      "translation": "আমি দেখলাম যে যখনই আমি মিছরি বা আপেলের মতো জিনিস দিয়ে তার সহমর্মিতার প্রতিদান দেওয়ার চেষ্টা করতাম, সে নির্বাক হয়ে যেত। 'ধন্যবাদ' হয়তো এমন একটি শব্দ ছিল যার কোনো ব্যবহার তার জানা ছিল না, কারণ তার শিষ্টাচার ছিল সহজাত।",
+      "id": "part_3",
+      "content": "A stone was loose in the rough walk to the cabin. He dug a deeper hole and steadied it.",
+      "translation": "কেবিনের অমসৃণ পথে একটি পাথর আলগা ছিল। সে একটি গভীর গর্ত খুঁড়ে সেটিকে মজবুত করেছিল।",
       "questions": [
         {
-          "id": "q14",
-          "type": "mcq",
-          "question": "How did Jerry react when given gifts like candy or apples?",
-          "options": [
-            "He said thank you loudly",
-            "He refused to take them",
-            "He was wordless",
-            "He asked for money instead"
+          "id": "q3",
+          "type": "match",
+          "pairs": [
+            { "left": "Loose stone", "right": "Steadied by Jerry" },
+            { "left": "Deeper hole", "right": "Dug to fix the walk" },
+            { "left": "The walk", "right": "Rough path to cabin" }
           ],
+          "explanation": "Matches Jerry's work on fixing the walking path."
+        }
+      ]
+    },
+    {
+      "id": "part_4",
+      "content": "I found that when I tried to return his thoughtfulness with candy and apples, he was wordless.",
+      "translation": "আমি দেখলাম যে যখনই আমি তার মহানুভবতার প্রতিদান হিসেবে তাকে চকলেট বা আপেল দিতাম, সে নির্বাক হয়ে যেত।",
+      "questions": [
+        {
+          "id": "q4",
+          "type": "mcq",
+          "question": "How did Jerry react to receiving candy and apples?",
+          "options": ["He said thank you", "He was wordless", "He was angry", "He asked for more"],
           "answer": "He was wordless",
-          "explanation": "The text states he was 'wordless' because his courtesy was instinctive rather than learned through formal expressions."
-        },
-        {
-          "id": "q15",
-          "type": "fill",
-          "question": "The narrator describes Jerry's courtesy as ________.",
-          "answers": [
-            "Instinctive",
-            "instinctive"
-          ],
-          "explanation": "The narrator notes that 'Thank you' was an expression he didn't use because his politeness was natural to him."
+          "explanation": "The text says he was 'wordless' when receiving these gifts."
         }
       ]
     },
     {
-      "id": "part_14",
-      "content": "He became intimate, of course, with my pointer, Pat. There is a strange communion between a boy and a dog. When I went across the state for a weekend, I left the dog in Jerry's charge....",
-      "translation": "অবশ্যই, আমার পয়েন্টার কুকুর প্যাটের সাথে তার খুব ঘনিষ্ঠতা হয়ে গিয়েছিল। একটি ছেলে এবং একটি কুকুরের মধ্যে এক অদ্ভুত সংযোগ থাকে। যখন আমি সপ্তাহের ছুটির জন্য রাজ্যের অন্য প্রান্তে গেলাম, আমি কুকুরটিকে জেরির দায়িত্বে রেখে গিয়েছিলাম।",
+      "id": "part_5",
+      "content": "'Thank you' was, perhaps, an expression for which he had had no use, for his courtesy was instinctive.",
+      "translation": "'ধন্যবাদ' শব্দটি সম্ভবত এমন একটি অভিব্যক্তি ছিল যা সে ব্যবহার করত না, কারণ তার সৌজন্য ছিল সহজাত।",
       "questions": [
         {
-          "id": "q16",
-          "type": "match",
-          "pairs": [
-            { "left": "Pat", "right": "The pointer dog" },
-            { "left": "Jerry", "right": "The dog's caretaker" },
-            { "left": "The Narrator", "right": "Traveled across the state" }
-          ],
-          "explanation": "Matches the characters to their roles during the weekend trip."
-        },
-        {
-          "id": "q17",
-          "type": "mcq",
-          "question": "What kind of dog was Pat?",
-          "options": ["Retriever", "Pointer", "Hound", "Shepherd"],
-          "answer": "Pointer",
-          "explanation": "The text identifies Pat as 'my pointer'."
-        }
-      ]
-    },
-    {
-      "id": "part_15",
-      "content": "The dog had been fed and cared for that morning. Jerry came early in the afternoon, anxious. 'I came.... last night and you hadn't come. So I brought Pat some of my breakfast this morning.'",
-      "translation": "সেদিন সকালে কুকুরটিকে খাওয়ানো হয়েছিল এবং যত্ন নেওয়া হয়েছিল। দুপুরে জেরি উদ্বিগ্ন হয়ে একটু তাড়াতাড়িই চলে এল। 'আমি কাল রাতে এসেছিলাম কিন্তু আপনি আসেননি। তাই আজ সকালে আমি আমার প্রাতরাশের কিছু অংশ প্যাটের জন্য নিয়ে এসেছি।'",
-      "questions": [
-        {
-          "id": "q18",
+          "id": "q5",
           "type": "gapfill",
-          "question": "Jerry was ___ when the narrator was late, so he shared his own ___ with the dog.",
-          "wordBank": ["anxious", "breakfast", "happy", "dinner", "tired"],
-          "answers": ["anxious", "breakfast"],
-          "explanation": "Jerry was worried about the narrator's absence and gave Pat part of his own meal."
-        },
+          "question": "Jerry's ___ was so ___ that he rarely used the phrase 'Thank you'.",
+          "wordBank": ["courtesy", "instinctive", "rudeness", "strange", "training"],
+          "answers": ["courtesy", "instinctive"],
+          "explanation": "His politeness came naturally rather than through formal training."
+        }
+      ]
+    },
+    {
+      "id": "part_6",
+      "content": "He became intimate, of course, with my pointer, Pat. There is a strange communion between a boy and a dog.",
+      "translation": "অবশ্যই, সে আমার পয়েন্টার কুকুর প্যাটের সাথে খুব ঘনিষ্ঠ হয়ে গিয়েছিল। ছেলে এবং কুকুরের মধ্যে এক অদ্ভুত সখ্যতা থাকে।",
+      "questions": [
         {
-          "id": "q19",
-          "type": "fill",
-          "question": "Why was the narrator's return delayed until Monday noon?",
-          "answers": [
-            "fog",
-            "the fog",
-            "treacherous fog",
-            "fog in the mountain passes"
-          ],
-          "explanation": "The narrator mentions that fog filled the mountain passes treacherously."
-        },
+          "id": "q6",
+          "type": "mcq",
+          "question": "What was the name of the narrator's dog?",
+          "options": ["Jerry", "Pat", "Buddy", "Max"],
+          "answer": "Pat",
+          "explanation": "The narrator's pointer dog was named Pat."
+        }
+      ]
+    },
+    {
+      "id": "part_7",
+      "content": "When I went across the state for a weekend, I left the dog in Jerry's charge.",
+      "translation": "যখন আমি ছুটির দিনে রাজ্যের অন্য প্রান্তে গিয়েছিলাম, আমি কুকুরটিকে জেরির দায়িত্বে রেখে গিয়েছিলাম।",
+      "questions": [
         {
-          "id": "q20",
+          "id": "q7",
+          "type": "gapfill",
+          "question": "The narrator left Pat in Jerry's ___ for the ___.",
+          "wordBank": ["charge", "weekend", "house", "month", "care"],
+          "answers": ["charge", "weekend"],
+          "explanation": "Jerry was left in charge of the dog during the weekend trip."
+        }
+      ]
+    },
+    {
+      "id": "part_8",
+      "content": "Fog filled the mountain passes so treacherously that it was Monday noon before I reached the cabin.",
+      "translation": "পাহাড়ি পথে কুয়াশা এতটাই বিপজ্জনক ছিল যে সোমবার দুপুর হওয়ার আগে আমি কেবিনে পৌঁছাতে পারিনি।",
+      "questions": [
+        {
+          "id": "q8",
+          "type": "mcq",
+          "question": "What prevented the narrator from returning on time?",
+          "options": ["Heavy rain", "Treacherous fog", "Car accident", "A broken bridge"],
+          "answer": "Treacherous fog",
+          "explanation": "The fog in the mountain passes made the travel delayed."
+        }
+      ]
+    },
+    {
+      "id": "part_9",
+      "content": "Jerry came early in the afternoon, anxious. 'The superintendent said nobody would drive in the fog,' he said.",
+      "translation": "জরি দুপুরের শুরুর দিকে খুব উদ্বিগ্ন হয়ে এল। সে বলল, 'সুপারিনটেনডেন্ট বলেছিলেন এই কুয়াশায় কেউ গাড়ি চালাবে না।'",
+      "questions": [
+        {
+          "id": "q9",
           "type": "match",
           "pairs": [
-            { "left": "The Superintendent", "right": "Predicted no one would drive in fog" },
-            { "left": "Jerry", "right": "Brought his own breakfast for Pat" },
-            { "left": "Monday Noon", "right": "When the narrator finally arrived" }
+            { "left": "Jerry", "right": "Arrived early afternoon" },
+            { "left": "Superintendent", "right": "Predicted no one would drive" },
+            { "left": "Anxious", "right": "Jerry's emotional state" }
           ],
-          "explanation": "Matches the events and statements from the final scene of the text."
+          "explanation": "Matches the characters' roles and feelings during the delay."
+        }
+      ]
+    },
+    {
+      "id": "part_10",
+      "content": "'I brought Pat some of my breakfast this morning. I wouldn't have let anything happen to him.'",
+      "translation": "'আজ সকালে আমি প্যাটের জন্য আমার সকালের নাস্তা থেকে কিছু খাবার নিয়ে এসেছি। আমি তার কোনো ক্ষতি হতে দিতাম না।'",
+      "questions": [
+        {
+          "id": "q10",
+          "type": "gapfill",
+          "question": "Jerry shared his ___ with Pat to ensure his ___.",
+          "wordBank": ["breakfast", "safety", "dinner", "hunger", "health"],
+          "answers": ["breakfast", "safety"],
+          "explanation": "Jerry brought his own breakfast for the dog to make sure he was cared for."
         }
       ]
     }
